@@ -1,0 +1,26 @@
+#!PA_PROJECT!#
+Description                    "Patts2 patts1_usel_isac24k voice for en_us (speaker sfg, sample rate 16000, size glass)";
+ServerVoiceName                "sfg";
+sample_rate                    "16000";
+subset                         "glass";
+aligner                        "pretrained";
+language                       "en";
+region                         "us";
+CompileParamsFile              "compile_usel_diph_mhd.cfg";
+CompositeAudioFile             "composite_audio_en_us_sfg_glass_16000_isac_24kbps.caf";
+EngineParamsFile               "engine_usel_16000_diph_mhd.cfg";
+G2pFstFile                     "g2p_m3_syls0_stress0_en-US.fst";
+ActiveLexicon                  "compressed_lexicon_en_us.blex";
+TextNormParamsFile             "textnorm_kestrel.cfg";
+DataParamsFile                 "phonology.cfg";
+RunVoiceFile                   "patts1_unit_selection_voice_en_us_sfg_glass_16000_diph_mhd.voice";
+phonology                      "phonology.pb";
+resolve_homographs_simple      "resolve_homographs_simple_us.pb";
+rewrite                        "rewrite_android.far";
+roman_numeral_contexts         "roman_numeral_contexts.pb";
+roman_numeral_grammar          "roman_numeral_android.far";
+textnorm_params                "textnorm_params.pb";
+tokenize_and_classify          "tokenize_and_classify_android.far";
+verbalize                      "verbalize_android.far";
+modules                        "rewrite_simple tokenize_and_classify_kestrel classify_roman_numerals_kestrel verbalize_kestrel classify_homographs_simple select_variants_en pronounce patts1_unit_selection patts1_wave_gen";
+

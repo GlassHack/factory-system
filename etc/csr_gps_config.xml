@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<sllconfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="sllconfig.xsd">
+   <Pta>
+     <!-- PTA Type Tracker or Engine -->
+     <PtaType>Engine</PtaType>
+     <!-- Device port -->
+     <DevicePortSelect>UART</DevicePortSelect>
+     <DevicePort>/dev/ttyO3</DevicePort>
+     <!-- On/Off port configuration -->
+     <OnOffControl>GPIO</OnOffControl>
+     <OnOffPort>/sys/class/gps/gps_elton/onoff</OnOffPort>
+     <!-- Reset port configuration -->
+     <ResetControl>GPIO</ResetControl>
+     <ResetPort>/sys/class/gps/gps_elton/reset</ResetPort>
+     <UartBaudRate>115200</UartBaudRate>
+     <RefClkFrequency>16369000</RefClkFrequency>
+     <LnaType>On</LnaType>
+     <!-- Io PIN configuration. It must be enabled for UART flow control -->
+     <IoPinConfigurationMode>Enable</IoPinConfigurationMode>
+     <IoPinConfiguration0>0x03fc</IoPinConfiguration0>
+     <IoPinConfiguration1>0x03fc</IoPinConfiguration1>
+     <IoPinConfiguration2>0x0004</IoPinConfiguration2>
+     <!-- MSGWAIT, active high polarity, all power modes -->
+     <IoPinConfiguration3>0</IoPinConfiguration3>
+     <IoPinConfiguration4>0x000c</IoPinConfiguration4>
+     <!-- Timemark, all power modes, rising pulse edge & weak drive for full power/low output for other power modes -->
+     <IoPinConfiguration5>0x007c</IoPinConfiguration5>
+     <IoPinConfiguration6>0</IoPinConfiguration6>
+     <IoPinConfiguration7>0</IoPinConfiguration7>
+     <IoPinConfiguration8>0x000c</IoPinConfiguration8>
+     <IoPinConfiguration9>0x07fc</IoPinConfiguration9>
+     <!-- TRKI2CDIO, high drive strength, full power only -->
+     <IoPinConfiguration10>0</IoPinConfiguration10>
+     <BackupLdoModeEnabled>On</BackupLdoModeEnabled>
+     <!-- NVM file location -->
+     <HostStorageLocation>/data/gps/nvm</HostStorageLocation>
+     <!-- If GPIO driver deasserts automatically, set Yes to 'AutoHighLowPulse' property. otherwise No -->
+     <AutoHighLowPulse>No</AutoHighLowPulse>
+     <!-- EE Storage Location, HOST, EEPROM, FLASH, NONE -->
+     <EEStorageLocation>HOST</EEStorageLocation>
+     <!-- EMBED or HOST -->
+     <SifTechnology>HOST</SifTechnology>
+     <!-- If same patch already applied to the receiver chip, setting this property to Yes has no effect -->
+     <ApplyPatch>Yes</ApplyPatch>
+     <!-- Patch file location, If PathPatchNVM is missed in xml, PathPatchNVM is identical to HostStorageLocation -->
+     <PathPatchNVM>/system/vendor/firmware</PathPatchNVM>
+
+     <!-- 5T / 5xp Specific config  -->
+     <!-- TRKI2CCLK, high drive strength, full power only -->
+     <IoPinConfiguration11>0</IoPinConfiguration11>
+     <IoPinConfiguration12>0</IoPinConfiguration12>
+     <IoPinConfiguration13>0</IoPinConfiguration13>
+     <PinSwFunction>0x0400</PinSwFunction>
+   </Pta>
+
+   <Sif>
+     <!-- OperatingMode : None / Sgee / Cgee / Mixed / -->
+     <OperationMode>Sgee</OperationMode>
+     <FileFormat>FF4</FileFormat>
+     <IsGpsTimeSrcAvailable>Yes</IsGpsTimeSrcAvailable>
+     <CgeeInputMethod>SubFrame</CgeeInputMethod>
+     <SgeeInputMethod>0</SgeeInputMethod>
+     <SgeeServerFileName>/gps/sifgps.f2p1enc.ee</SgeeServerFileName>
+     <SgeeServerName>eedemo1.csrlbs.com</SgeeServerName>
+     <SgeeServerPort>80</SgeeServerPort>
+     <SgeeServerAuthCode>ZGVtb3VzZXI4OlU2eDI0ZlF5</SgeeServerAuthCode>
+     <SgeeServerFileNameGlonass>/glonass/sifglo.f2p1enc.ee</SgeeServerFileNameGlonass>
+     <SgeeServerNameGlonass>eedemo1.csrlbs.com</SgeeServerNameGlonass>
+     <SgeeServerPortGlonass>80</SgeeServerPortGlonass>
+     <SgeeServerAuthCodeGlonass>ZGVtb3VzZXI4OlU2eDI0ZlF5</SgeeServerAuthCodeGlonass>
+   </Sif>
+
+   <Agnss>
+     <AgnssNetworkParamsOverwrite>Yes</AgnssNetworkParamsOverwrite>
+     <!-- AidingType : None / Local / Network / LocalPreferred / NetworkPreferred / LbsApp-->
+     <AidingTypePrefAidingType>Network</AidingTypePrefAidingType>
+     <IsSecure>No</IsSecure>
+     <SuplServerInfoIpAddress>supl.google.com</SuplServerInfoIpAddress>
+     <SuplServerInfoPort>7276</SuplServerInfoPort>
+     <IsCpGpsOnly>Yes</IsCpGpsOnly>
+     <NTPTimeAiding>Yes</NTPTimeAiding>
+     <LocalTimeAiding>Yes</LocalTimeAiding>
+     <!-- TimeAidingUncertaintyMsec, if it is not zero, Uncertainty of aiding time should be override-->
+     <TimeAidingUncertaintyMsec>2000</TimeAidingUncertaintyMsec>
+     <LocalTimeUncertainityMsec>2500</LocalTimeUncertainityMsec>
+     <!-- Allow to inject reference location, "Yes" means ref location from gps interface can be injected, override means following reference location info will injected rather that information from gps interface-->
+   <RefLocation>Yes</RefLocation>
+	 <RefLocationLat>37.43684</RefLocationLat>
+	 <RefLocationLon>-122.11189</RefLocationLon>
+     <!-- Unit of RefLocationHErr and RefLocationHErr is a meter -->
+	 <RefLocationHErr>10000</RefLocationHErr>
+	 <RefLocationVErr>6000</RefLocationVErr>
+	 <!-- <NTPServerAddress>time.windows.com</NTPServerAddress> -->
+	 <WlanIfName>wlan0</WlanIfName>
+     <!-- For Supl wlanAP information will be utilized for location id -->
+	 <CellInfoWlanAp>Yes</CellInfoWlanAp>
+   </Agnss>
+
+   <SETCaps>
+      <IsSetCapsValid>Yes</IsSetCapsValid>
+      <!-- Position Technologies -->
+      <SetCapsPosTechnologyIsMsbSupported>Yes</SetCapsPosTechnologyIsMsbSupported>
+      <SetCapsPosTechnologyIsMsaSupported>Yes</SetCapsPosTechnologyIsMsaSupported>
+      <SetCapsPosTechnologyIsAutonomousSupported>No</SetCapsPosTechnologyIsAutonomousSupported>
+      <SetCapsPosTechnologyIsEcidSupported>No</SetCapsPosTechnologyIsEcidSupported>
+      <SetCapsPosTechnologyIsOtdoaSupported>No</SetCapsPosTechnologyIsOtdoaSupported>
+      <!-- End of Position Technologies -->
+      <!-- Protocol Capabilities -->
+      <SetCapsPosProtocolIsRrlpSupported>Yes</SetCapsPosProtocolIsRrlpSupported>
+      <SetCapsPosProtocolIsLppSupported>Yes</SetCapsPosProtocolIsLppSupported>
+      <!-- End of Protocol Capabilities -->
+      <!-- Supl Version-->
+      <IsSupl10Supported>No</IsSupl10Supported>
+      <Supl10MinorVersion>0</Supl10MinorVersion>
+      <IsSupl20Supported>Yes</IsSupl20Supported>
+      <Supl20MinorVersion>0</Supl20MinorVersion>
+      <!-- End of Supl Version-->
+      <QoPinSuplStart>Yes</QoPinSuplStart>
+   </SETCaps>
+
+   <Testing>
+      <!--Below parameters will over write position request parameter of application -->
+      <PositionReqParamsOverWrite>No</PositionReqParamsOverWrite>
+      <!-- 1 => To close all NI sessiong.To be used only to test UT7 Timer  -->
+      <!-- 2 => To send only cell id update -->
+      <!-- Note : If ExtraFunctionalityConfig is set other than 0 pos req is not sent -->
+      <ExtraFunctionalityConfig>0</ExtraFunctionalityConfig>
+      <!-- Repeat specifies number of back to back sessions to be run -->
+      <Repeat>1</Repeat>
+      <!-- Delay specifies delay in seconds between back to back session when Repeat > 1-->
+      <Delay>5</Delay>
+      <!-- Bit map of debug config to be used for Tracker / Engine .-->
+      <!-- 0: Disable host log; 48: Enable host log -->
+      <DebugConfig>0</DebugConfig>
+      <!-- SessionStopTime is session stop time in secs  to close session after some time irrespective of getting fix or not set. -->
+      <!-- SessionStopTime = 0 to allow session close after getting all fixes from sll -->
+      <SessionStopTime>0</SessionStopTime>
+      <!-- Mode with which Tracker/Engine is started before starting a session -->
+      <ResetType>Hot</ResetType>
+
+      <!-- PosReqTye    Default / EventTrigger / Periodic -->
+      <PosReqType>Default</PosReqType>
+      <PosReqNumOfFix>6</PosReqNumOfFix>
+      <PosReqFixFreq>60</PosReqFixFreq>
+      <!--PosReqAreaEventType    Entering /Inside /Outside / Leaving -->
+      <PosReqAreaEventType>Entering</PosReqAreaEventType>
+      <!-- PosReqGeographicTargetAreaType    Circle / Ellipse / Polygon -->
+      <PosReqGeographicTargetAreaType>Circle</PosReqGeographicTargetAreaType>
+      <PosReqCircularAreaLatitude>35.66667</PosReqCircularAreaLatitude>
+      <PosReqCircularAreaLongitude>139.75</PosReqCircularAreaLongitude>
+      <PosReqCircularAreaRadius>1000</PosReqCircularAreaRadius>
+      <PosReqIsStartTimeValid>Yes</PosReqIsStartTimeValid>
+      <PosReqIsStopTimeValid>Yes</PosReqIsStopTimeValid>
+      <!-- PosReqPosReportingDestination Self / ThirdParty if set to Self the following parameters will be ignored -->
+      <PosReqPosReportingDestination>Self</PosReqPosReportingDestination>
+      <!-- Third Party params : With third party params present position request is treated as "Transfer to third party" -->
+      <!-- LogicalName,MSISDN,EmailAddr,SipUri,ImsPublicIdentity,Min,Mdn,Uri -->
+      <PosReqThirdPartyIdType>EmailAddr</PosReqThirdPartyIdType>
+      <!-- Value Type 1 is string to hold Logical name, email addr ,spi_uri,imsi_public_identity,uri. Value type 2 input is not supported by this config file -->
+      <PosReqThirdPartyIdValueType1>sll@csr.com</PosReqThirdPartyIdValueType1>
+      <!-- End of Third Party Params -->
+      <PosReqStartTime>30</PosReqStartTime>
+      <PosReqStopTime>240</PosReqStopTime>
+      <!-- Vertical and horizontal accuracy in meters -->
+      <PosReqVertAccuracy>75</PosReqVertAccuracy>
+      <PosReqHorAccuracy>75</PosReqHorAccuracy>
+      <PosReqMaxResponseTime>128</PosReqMaxResponseTime>
+      <PosReqMaxLocAge>0</PosReqMaxLocAge>
+      <!--PosReqTimeAccPriority could be None / Time / Accuracy / EntireRespTime  -->
+      <PosReqTimeAccPriority>None</PosReqTimeAccPriority>
+      <!--Power mode to be used while getting fix  -->
+      <PosReqPowerControl>Maximum</PosReqPowerControl>
+      <PosReqIsCostAllowed>Yes</PosReqIsCostAllowed>
+      <!-- Prefered method for this location request -->
+      <PosReqLocationMethod>MSB</PosReqLocationMethod>
+      <PosReqIsNmeaReport>No</PosReqIsNmeaReport>
+      <PosReqIsMeasureReport>No</PosReqIsMeasureReport>
+      <PosReqIsPosReport>Yes</PosReqIsPosReport>
+      <PosReqIsOspPosReport>Yes</PosReqIsOspPosReport>
+      <PosReqIsAllOspReport>Yes</PosReqIsAllOspReport>
+      <ForceNetworkEnabled>Yes</ForceNetworkEnabled>
+   </Testing>
+
+   <LocationId>
+      <IsLocationidOverWrite>No</IsLocationidOverWrite>
+      <LocationIdConfigFile>/data/gps/LocationId.xml</LocationIdConfigFile>
+   </LocationId>
+   <Log>
+      <PathText>/data/gps/BriefLog.txt</PathText>
+      <PathRaw>/data/gps/DetailedLog.txt</PathRaw>
+      <PathNav>/data/gps/nav.gps</PathNav>
+      <PathAGPS>/data/gps/agps.txt</PathAGPS>
+      <PathCT>/data/gps/Sbrieflog.txt</PathCT>
+      <PathInterface>/data/gps/sirf_interface_log.txt</PathInterface>
+      <PathEeDownloader>/data/gps/ee_download_debug.txt</PathEeDownloader>
+   </Log>
+</sllconfig>

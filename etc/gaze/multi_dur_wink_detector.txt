@@ -1,0 +1,8 @@
+300 800
+boost_default_params.txt
+300 650
+wink-300-650ms-detector.txt
+400 800
+wink-400-800ms-detector.txt
+300 550
+wink-300-550ms-detector.txt

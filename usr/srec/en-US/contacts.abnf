@@ -1,0 +1,163 @@
+// Copyright 2012 Google Inc. All Rights Reserved.
+//
+// Contact dialing grammar.
+//
+// The grammar includes a garbage model consisting of top 100 English words.
+// It is the first version of it and possible changes might include (based on
+// experiment results).
+//     1) Adding weight to each word.
+//     2) Including more words.
+//     3) Using top unigram (from dictation LM) words.
+//     4) Optimizing model weight after testing on more data.
+//
+// For completeness. On the client side $CONTACT is added and $VOICE_DIALING
+// and $TARGET are defined either as:
+//    1) $VOICE_DIALING = $CONTACT_AND_DIGIT_DIALING;
+//       $TARGET = $CONTACT; or
+//    2) $VOICE_DIALING = $DIGIT_DIALING;  // If contact list is not available.
+
+tag-semantics <literal>;
+
+// TODO(apetar) Current set of weights that provide low FA. They are obtained
+// for data that includes "call", so they need to be optimized on larger
+// dataset.
+
+$root = /1/ $VOICE_DIALING | /9/ $OTHER;
+
+$CONTACT_AND_DIGIT_DIALING = /100/ $CONTACT_CALLING | /1/ $DIGIT_DIALING;
+
+$CONTACT_CALLING = (call {_call}) {___<scrub>___} $TARGET {___</scrub>___} $SUFFIX;
+$SUFFIX = /1/ $SUFFIX_RULES | /4/ $NULL;
+
+$SUFFIX_RULES = $MOBILE | $WORK | $HOME;
+
+$HOME = [at | at $PRON] $HOME_BASE | [on | on $PRON_THE] $HOME_BASE phone;
+$ON_AT = /5/ on | /1/ at;
+$MOBILE = [$ON_AT | $ON_AT $PRON] $MOBILE_BASE | [$ON_AT | $ON_AT $PRON_THE] $MOBILE_BASE phone;
+$WORK = [at | at $PRON] $WORK_BASE | [on | on $PRON_THE] $HOME_BASE phone;
+
+$PRON = (his | her | their);
+$PRON_THE = $PRON | the;
+$HOME_BASE = (home | house) {_p1};
+$MOBILE_BASE = (mobile | cell | cellular) {_p2};
+$WORK_BASE = (business | work | office) {_p3};
+
+
+// TODO(apetar) Analyze more test data to confirm the priors/weights.
+$DIGIT_DIALING = ((/1/ call | /10/ dial) {_call}) {___<scrub>___} $LITERAL_NUM {___</scrub>___};
+$LITERAL_NUM = $digit<7-15>;
+$digit = $digit0 | $digit1 | $digit2 | $digit3 | $digit4 | $digit5 | $digit6 | $digit7 | $digit8 | $digit9;
+$digit0 = ((zero | oh | 0) {_d0});
+$digit1 = ((one | 1) {_d1});
+$digit2 = ((two | 2) {_d2});
+$digit3 = ((three | 3) {_d3});
+$digit4 = ((four | 4) {_d4});
+$digit5 = ((five | 5) {_d5});
+$digit6 = ((six | 6) {_d6});
+$digit7 = ((seven | 7) {_d7});
+$digit8 = ((eight | 8) {_d8});
+$digit9 = ((nine | 9) {_d9});
+
+$OTHER = ($OTHER_WORDS<1->) {_other};
+$OTHER_WORDS =
+        the |
+        be |
+        to |
+        of |
+        and |
+        a |
+        in |
+        that |
+        have |
+        i |
+        it |
+        for |
+        not |
+        on |
+        with |
+        he |
+        as |
+        you |
+        do |
+        at |
+        this |
+        but |
+        his |
+        by |
+        from |
+        they |
+        we |
+        say |
+        her |
+        she |
+        or |
+        an |
+        will |
+        my |
+        one |
+        all |
+        would |
+        there |
+        their |
+        what |
+        so |
+        up |
+        out |
+        if |
+        about |
+        who |
+        get |
+        which |
+        go |
+        me |
+        when |
+        make |
+        can |
+        like |
+        time |
+        no |
+        just |
+        him |
+        know |
+        take |
+        person |
+        into |
+        year |
+        your |
+        good |
+        some |
+        could |
+        them |
+        see |
+        other |
+        than |
+        then |
+        now |
+        look |
+        only |
+        come |
+        its |
+        over |
+        think |
+        also |
+        back |
+        after |
+        use |
+        two |
+        how |
+        our |
+        work |
+        first |
+        well |
+        way |
+        even |
+        new |
+        want |
+        because |
+        any |
+        these |
+        give |
+        day |
+        most |
+        us
+        ;

@@ -1,0 +1,5076 @@
+calibration <
+  Calibration {
+    raw_value: 2.105573f
+    calibrated_value: -1.813094f
+  }
+  Calibration {
+    raw_value: 3.119639f
+    calibrated_value: -1.791023f
+  }
+  Calibration {
+    raw_value: 3.239945f
+    calibrated_value: -1.512687f
+  }
+  Calibration {
+    raw_value: 3.310215f
+    calibrated_value: -1.455979f
+  }
+  Calibration {
+    raw_value: 3.456760f
+    calibrated_value: -1.416527f
+  }
+  Calibration {
+    raw_value: 3.662361f
+    calibrated_value: -1.350041f
+  }
+  Calibration {
+    raw_value: 3.911392f
+    calibrated_value: -1.090570f
+  }
+  Calibration {
+    raw_value: 4.200153f
+    calibrated_value: -0.859572f
+  }
+  Calibration {
+    raw_value: 4.460115f
+    calibrated_value: -0.581822f
+  }
+  Calibration {
+    raw_value: 4.644361f
+    calibrated_value: -0.575060f
+  }
+  Calibration {
+    raw_value: 4.762336f
+    calibrated_value: -0.542703f
+  }
+  Calibration {
+    raw_value: 4.851412f
+    calibrated_value: -0.213350f
+  }
+  Calibration {
+    raw_value: 4.911207f
+    calibrated_value: -0.213350f
+  }
+  Calibration {
+    raw_value: 4.998514f
+    calibrated_value: -0.195113f
+  }
+  Calibration {
+    raw_value: 5.115008f
+    calibrated_value: -0.128598f
+  }
+  Calibration {
+    raw_value: 5.230767f
+    calibrated_value: -0.048916f
+  }
+  Calibration {
+    raw_value: 5.344214f
+    calibrated_value: -0.026880f
+  }
+  Calibration {
+    raw_value: 5.465563f
+    calibrated_value: 0.160253f
+  }
+  Calibration {
+    raw_value: 5.655903f
+    calibrated_value: 0.339477f
+  }
+  Calibration {
+    raw_value: 5.847846f
+    calibrated_value: 0.371604f
+  }
+  Calibration {
+    raw_value: 5.986308f
+    calibrated_value: 0.473586f
+  }
+  Calibration {
+    raw_value: 6.209221f
+    calibrated_value: 0.540459f
+  }
+  Calibration {
+    raw_value: 9.147058f
+    calibrated_value: 0.559461f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 2.870796f
+    calibrated_value: -1.549753f
+  }
+  Calibration {
+    raw_value: 4.255128f
+    calibrated_value: -1.486934f
+  }
+  Calibration {
+    raw_value: 4.738901f
+    calibrated_value: -1.369848f
+  }
+  Calibration {
+    raw_value: 5.125219f
+    calibrated_value: -1.203771f
+  }
+  Calibration {
+    raw_value: 5.283725f
+    calibrated_value: -1.053656f
+  }
+  Calibration {
+    raw_value: 5.386990f
+    calibrated_value: -1.035013f
+  }
+  Calibration {
+    raw_value: 5.633720f
+    calibrated_value: -0.897855f
+  }
+  Calibration {
+    raw_value: 6.001912f
+    calibrated_value: -0.759188f
+  }
+  Calibration {
+    raw_value: 6.261444f
+    calibrated_value: -0.683857f
+  }
+  Calibration {
+    raw_value: 6.365093f
+    calibrated_value: -0.642882f
+  }
+  Calibration {
+    raw_value: 6.402498f
+    calibrated_value: -0.617649f
+  }
+  Calibration {
+    raw_value: 6.443135f
+    calibrated_value: -0.586594f
+  }
+  Calibration {
+    raw_value: 6.484331f
+    calibrated_value: -0.536965f
+  }
+  Calibration {
+    raw_value: 6.543879f
+    calibrated_value: -0.473603f
+  }
+  Calibration {
+    raw_value: 6.624068f
+    calibrated_value: -0.415824f
+  }
+  Calibration {
+    raw_value: 6.747152f
+    calibrated_value: -0.342909f
+  }
+  Calibration {
+    raw_value: 6.919055f
+    calibrated_value: -0.092336f
+  }
+  Calibration {
+    raw_value: 7.089733f
+    calibrated_value: -0.061969f
+  }
+  Calibration {
+    raw_value: 7.341943f
+    calibrated_value: 0.054949f
+  }
+  Calibration {
+    raw_value: 7.554139f
+    calibrated_value: 0.085330f
+  }
+  Calibration {
+    raw_value: 7.642548f
+    calibrated_value: 0.282471f
+  }
+  Calibration {
+    raw_value: 7.778596f
+    calibrated_value: 0.282598f
+  }
+  Calibration {
+    raw_value: 7.961011f
+    calibrated_value: 0.426508f
+  }
+  Calibration {
+    raw_value: 8.149926f
+    calibrated_value: 0.448346f
+  }
+  Calibration {
+    raw_value: 8.458174f
+    calibrated_value: 0.568151f
+  }
+  Calibration {
+    raw_value: 12.606253f
+    calibrated_value: 0.620272f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 3.463337f
+    calibrated_value: -1.383173f
+  }
+  Calibration {
+    raw_value: 5.553865f
+    calibrated_value: -1.376232f
+  }
+  Calibration {
+    raw_value: 6.018788f
+    calibrated_value: -1.096051f
+  }
+  Calibration {
+    raw_value: 6.273526f
+    calibrated_value: -1.074570f
+  }
+  Calibration {
+    raw_value: 6.614313f
+    calibrated_value: -1.045539f
+  }
+  Calibration {
+    raw_value: 7.233771f
+    calibrated_value: -0.686800f
+  }
+  Calibration {
+    raw_value: 7.639691f
+    calibrated_value: -0.667008f
+  }
+  Calibration {
+    raw_value: 7.661268f
+    calibrated_value: -0.611787f
+  }
+  Calibration {
+    raw_value: 7.698176f
+    calibrated_value: -0.461049f
+  }
+  Calibration {
+    raw_value: 7.771558f
+    calibrated_value: -0.439035f
+  }
+  Calibration {
+    raw_value: 7.912081f
+    calibrated_value: -0.376444f
+  }
+  Calibration {
+    raw_value: 8.096378f
+    calibrated_value: -0.337493f
+  }
+  Calibration {
+    raw_value: 8.284326f
+    calibrated_value: -0.214584f
+  }
+  Calibration {
+    raw_value: 8.473323f
+    calibrated_value: -0.074569f
+  }
+  Calibration {
+    raw_value: 8.662084f
+    calibrated_value: 0.039080f
+  }
+  Calibration {
+    raw_value: 8.859369f
+    calibrated_value: 0.134485f
+  }
+  Calibration {
+    raw_value: 9.011799f
+    calibrated_value: 0.190310f
+  }
+  Calibration {
+    raw_value: 9.086857f
+    calibrated_value: 0.268408f
+  }
+  Calibration {
+    raw_value: 9.135586f
+    calibrated_value: 0.279820f
+  }
+  Calibration {
+    raw_value: 9.378395f
+    calibrated_value: 0.297470f
+  }
+  Calibration {
+    raw_value: 9.623287f
+    calibrated_value: 0.322910f
+  }
+  Calibration {
+    raw_value: 9.682613f
+    calibrated_value: 0.436604f
+  }
+  Calibration {
+    raw_value: 9.772234f
+    calibrated_value: 0.553916f
+  }
+  Calibration {
+    raw_value: 9.959260f
+    calibrated_value: 0.615889f
+  }
+  Calibration {
+    raw_value: 14.551044f
+    calibrated_value: 0.710391f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 3.589026f
+    calibrated_value: -1.417566f
+  }
+  Calibration {
+    raw_value: 5.920065f
+    calibrated_value: -1.396663f
+  }
+  Calibration {
+    raw_value: 6.373744f
+    calibrated_value: -1.323840f
+  }
+  Calibration {
+    raw_value: 6.646209f
+    calibrated_value: -1.170173f
+  }
+  Calibration {
+    raw_value: 6.924174f
+    calibrated_value: -1.054500f
+  }
+  Calibration {
+    raw_value: 7.190242f
+    calibrated_value: -1.015412f
+  }
+  Calibration {
+    raw_value: 7.559494f
+    calibrated_value: -0.795037f
+  }
+  Calibration {
+    raw_value: 8.032881f
+    calibrated_value: -0.681559f
+  }
+  Calibration {
+    raw_value: 8.274523f
+    calibrated_value: -0.671278f
+  }
+  Calibration {
+    raw_value: 8.305338f
+    calibrated_value: -0.550359f
+  }
+  Calibration {
+    raw_value: 8.348669f
+    calibrated_value: -0.485139f
+  }
+  Calibration {
+    raw_value: 8.432906f
+    calibrated_value: -0.462691f
+  }
+  Calibration {
+    raw_value: 8.604363f
+    calibrated_value: -0.343460f
+  }
+  Calibration {
+    raw_value: 8.835014f
+    calibrated_value: -0.289779f
+  }
+  Calibration {
+    raw_value: 9.063871f
+    calibrated_value: -0.228823f
+  }
+  Calibration {
+    raw_value: 9.238270f
+    calibrated_value: -0.013575f
+  }
+  Calibration {
+    raw_value: 9.356819f
+    calibrated_value: -0.005163f
+  }
+  Calibration {
+    raw_value: 9.530320f
+    calibrated_value: 0.075155f
+  }
+  Calibration {
+    raw_value: 9.774885f
+    calibrated_value: 0.319381f
+  }
+  Calibration {
+    raw_value: 10.036752f
+    calibrated_value: 0.346018f
+  }
+  Calibration {
+    raw_value: 10.304661f
+    calibrated_value: 0.469905f
+  }
+  Calibration {
+    raw_value: 10.513424f
+    calibrated_value: 0.588551f
+  }
+  Calibration {
+    raw_value: 10.659636f
+    calibrated_value: 0.592985f
+  }
+  Calibration {
+    raw_value: 11.410553f
+    calibrated_value: 0.864455f
+  }
+  Calibration {
+    raw_value: 16.207399f
+    calibrated_value: 0.887468f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 15.000000f
+    calibrated_value: -1.658856f
+  }
+  Calibration {
+    raw_value: 19.000000f
+    calibrated_value: -1.620755f
+  }
+  Calibration {
+    raw_value: 20.000000f
+    calibrated_value: -1.615479f
+  }
+  Calibration {
+    raw_value: 21.000000f
+    calibrated_value: -1.518966f
+  }
+  Calibration {
+    raw_value: 24.000000f
+    calibrated_value: -1.498159f
+  }
+  Calibration {
+    raw_value: 27.500000f
+    calibrated_value: -1.329487f
+  }
+  Calibration {
+    raw_value: 29.000000f
+    calibrated_value: -1.261919f
+  }
+  Calibration {
+    raw_value: 30.000000f
+    calibrated_value: -1.219801f
+  }
+  Calibration {
+    raw_value: 31.500000f
+    calibrated_value: -1.185949f
+  }
+  Calibration {
+    raw_value: 33.000000f
+    calibrated_value: -0.926265f
+  }
+  Calibration {
+    raw_value: 34.500000f
+    calibrated_value: -0.846809f
+  }
+  Calibration {
+    raw_value: 36.000000f
+    calibrated_value: -0.632709f
+  }
+  Calibration {
+    raw_value: 37.000000f
+    calibrated_value: -0.372837f
+  }
+  Calibration {
+    raw_value: 38.000000f
+    calibrated_value: -0.317098f
+  }
+  Calibration {
+    raw_value: 39.500000f
+    calibrated_value: 0.005718f
+  }
+  Calibration {
+    raw_value: 41.000000f
+    calibrated_value: 0.079936f
+  }
+  Calibration {
+    raw_value: 42.500000f
+    calibrated_value: 0.275016f
+  }
+  Calibration {
+    raw_value: 44.500000f
+    calibrated_value: 0.607788f
+  }
+  Calibration {
+    raw_value: 46.500000f
+    calibrated_value: 0.658457f
+  }
+  Calibration {
+    raw_value: 48.000000f
+    calibrated_value: 0.727131f
+  }
+  Calibration {
+    raw_value: 49.000000f
+    calibrated_value: 0.781676f
+  }
+  Calibration {
+    raw_value: 50.500000f
+    calibrated_value: 1.037568f
+  }
+  Calibration {
+    raw_value: 54.000000f
+    calibrated_value: 1.078556f
+  }
+  Calibration {
+    raw_value: 114.500000f
+    calibrated_value: 1.130337f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 4.000000f
+    calibrated_value: -1.309044f
+  }
+  Calibration {
+    raw_value: 5.000000f
+    calibrated_value: 0.815565f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 3.800000f
+    calibrated_value: -1.616303f
+  }
+  Calibration {
+    raw_value: 4.875000f
+    calibrated_value: -1.477245f
+  }
+  Calibration {
+    raw_value: 5.225000f
+    calibrated_value: -1.315750f
+  }
+  Calibration {
+    raw_value: 5.600000f
+    calibrated_value: -1.311790f
+  }
+  Calibration {
+    raw_value: 6.125000f
+    calibrated_value: -1.150585f
+  }
+  Calibration {
+    raw_value: 6.800000f
+    calibrated_value: -0.911321f
+  }
+  Calibration {
+    raw_value: 7.325000f
+    calibrated_value: -0.664945f
+  }
+  Calibration {
+    raw_value: 7.550000f
+    calibrated_value: -0.569080f
+  }
+  Calibration {
+    raw_value: 7.775000f
+    calibrated_value: -0.443152f
+  }
+  Calibration {
+    raw_value: 8.000000f
+    calibrated_value: -0.300082f
+  }
+  Calibration {
+    raw_value: 8.225000f
+    calibrated_value: -0.170179f
+  }
+  Calibration {
+    raw_value: 8.450000f
+    calibrated_value: -0.049756f
+  }
+  Calibration {
+    raw_value: 8.800000f
+    calibrated_value: 0.274026f
+  }
+  Calibration {
+    raw_value: 9.400000f
+    calibrated_value: 0.497781f
+  }
+  Calibration {
+    raw_value: 10.000000f
+    calibrated_value: 0.555280f
+  }
+  Calibration {
+    raw_value: 11.200000f
+    calibrated_value: 0.819512f
+  }
+  Calibration {
+    raw_value: 26.600000f
+    calibrated_value: 0.823858f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: -5084745948475686912.000000f
+    calibrated_value: 3.370673f
+  }
+  Calibration {
+    raw_value: 145.160614f
+    calibrated_value: 3.353421f
+  }
+  Calibration {
+    raw_value: 158.674377f
+    calibrated_value: 3.291423f
+  }
+  Calibration {
+    raw_value: 168.367004f
+    calibrated_value: 2.911556f
+  }
+  Calibration {
+    raw_value: 180.091675f
+    calibrated_value: 2.813760f
+  }
+  Calibration {
+    raw_value: 188.777954f
+    calibrated_value: 2.752165f
+  }
+  Calibration {
+    raw_value: 191.353851f
+    calibrated_value: 2.681014f
+  }
+  Calibration {
+    raw_value: 195.518005f
+    calibrated_value: 2.622457f
+  }
+  Calibration {
+    raw_value: 201.054535f
+    calibrated_value: 2.351365f
+  }
+  Calibration {
+    raw_value: 205.595245f
+    calibrated_value: 2.296824f
+  }
+  Calibration {
+    raw_value: 211.618011f
+    calibrated_value: 2.221300f
+  }
+  Calibration {
+    raw_value: 219.294861f
+    calibrated_value: 1.955404f
+  }
+  Calibration {
+    raw_value: 226.559280f
+    calibrated_value: 1.916254f
+  }
+  Calibration {
+    raw_value: 231.356903f
+    calibrated_value: 1.790632f
+  }
+  Calibration {
+    raw_value: 233.506012f
+    calibrated_value: 1.745142f
+  }
+  Calibration {
+    raw_value: 234.919647f
+    calibrated_value: 1.698459f
+  }
+  Calibration {
+    raw_value: 238.235138f
+    calibrated_value: 1.670784f
+  }
+  Calibration {
+    raw_value: 245.489960f
+    calibrated_value: 1.504549f
+  }
+  Calibration {
+    raw_value: 252.247955f
+    calibrated_value: 1.475743f
+  }
+  Calibration {
+    raw_value: 255.361145f
+    calibrated_value: 1.406075f
+  }
+  Calibration {
+    raw_value: 257.523193f
+    calibrated_value: 1.243332f
+  }
+  Calibration {
+    raw_value: 259.639465f
+    calibrated_value: 1.192402f
+  }
+  Calibration {
+    raw_value: 261.475952f
+    calibrated_value: 1.043260f
+  }
+  Calibration {
+    raw_value: 263.880402f
+    calibrated_value: 0.926602f
+  }
+  Calibration {
+    raw_value: 267.008057f
+    calibrated_value: 0.925260f
+  }
+  Calibration {
+    raw_value: 270.200623f
+    calibrated_value: 0.914233f
+  }
+  Calibration {
+    raw_value: 273.367859f
+    calibrated_value: 0.775143f
+  }
+  Calibration {
+    raw_value: 276.231018f
+    calibrated_value: 0.762223f
+  }
+  Calibration {
+    raw_value: 278.387451f
+    calibrated_value: 0.745811f
+  }
+  Calibration {
+    raw_value: 279.959656f
+    calibrated_value: 0.640097f
+  }
+  Calibration {
+    raw_value: 282.074341f
+    calibrated_value: 0.621552f
+  }
+  Calibration {
+    raw_value: 286.299744f
+    calibrated_value: 0.572685f
+  }
+  Calibration {
+    raw_value: 294.266663f
+    calibrated_value: 0.497110f
+  }
+  Calibration {
+    raw_value: 301.741272f
+    calibrated_value: 0.246377f
+  }
+  Calibration {
+    raw_value: 306.072144f
+    calibrated_value: 0.186772f
+  }
+  Calibration {
+    raw_value: 308.907471f
+    calibrated_value: 0.172449f
+  }
+  Calibration {
+    raw_value: 310.005096f
+    calibrated_value: 0.048764f
+  }
+  Calibration {
+    raw_value: 311.525940f
+    calibrated_value: -0.084803f
+  }
+  Calibration {
+    raw_value: 314.491516f
+    calibrated_value: -0.089127f
+  }
+  Calibration {
+    raw_value: 318.456360f
+    calibrated_value: -0.154688f
+  }
+  Calibration {
+    raw_value: 322.301483f
+    calibrated_value: -0.202817f
+  }
+  Calibration {
+    raw_value: 331.820251f
+    calibrated_value: -0.288296f
+  }
+  Calibration {
+    raw_value: 341.522339f
+    calibrated_value: -0.403287f
+  }
+  Calibration {
+    raw_value: 345.406067f
+    calibrated_value: -0.457329f
+  }
+  Calibration {
+    raw_value: 349.189575f
+    calibrated_value: -0.459418f
+  }
+  Calibration {
+    raw_value: 352.982269f
+    calibrated_value: -0.551214f
+  }
+  Calibration {
+    raw_value: 358.397949f
+    calibrated_value: -0.672917f
+  }
+  Calibration {
+    raw_value: 365.719299f
+    calibrated_value: -0.762914f
+  }
+  Calibration {
+    raw_value: 373.262024f
+    calibrated_value: -0.830878f
+  }
+  Calibration {
+    raw_value: 381.109375f
+    calibrated_value: -0.971012f
+  }
+  Calibration {
+    raw_value: 393.576904f
+    calibrated_value: -0.989442f
+  }
+  Calibration {
+    raw_value: 403.200012f
+    calibrated_value: -1.167807f
+  }
+  Calibration {
+    raw_value: 405.554565f
+    calibrated_value: -1.261050f
+  }
+  Calibration {
+    raw_value: 408.380951f
+    calibrated_value: -1.282857f
+  }
+  Calibration {
+    raw_value: 413.134644f
+    calibrated_value: -1.288737f
+  }
+  Calibration {
+    raw_value: 417.856750f
+    calibrated_value: -1.343603f
+  }
+  Calibration {
+    raw_value: 425.206177f
+    calibrated_value: -1.417555f
+  }
+  Calibration {
+    raw_value: 435.504333f
+    calibrated_value: -1.476599f
+  }
+  Calibration {
+    raw_value: 453.504547f
+    calibrated_value: -1.543031f
+  }
+  Calibration {
+    raw_value: 473.420288f
+    calibrated_value: -1.715731f
+  }
+  Calibration {
+    raw_value: 489.074280f
+    calibrated_value: -1.763180f
+  }
+  Calibration {
+    raw_value: 521.822205f
+    calibrated_value: -1.820054f
+  }
+  Calibration {
+    raw_value: 801.500000f
+    calibrated_value: -1.825821f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 20.184408f
+    calibrated_value: 1.802922f
+  }
+  Calibration {
+    raw_value: 41.737648f
+    calibrated_value: 1.753407f
+  }
+  Calibration {
+    raw_value: 53.233753f
+    calibrated_value: 1.538836f
+  }
+  Calibration {
+    raw_value: 60.896324f
+    calibrated_value: 1.529847f
+  }
+  Calibration {
+    raw_value: 63.363640f
+    calibrated_value: 1.439986f
+  }
+  Calibration {
+    raw_value: 66.879677f
+    calibrated_value: 1.237157f
+  }
+  Calibration {
+    raw_value: 71.441574f
+    calibrated_value: 1.234364f
+  }
+  Calibration {
+    raw_value: 75.760994f
+    calibrated_value: 1.122678f
+  }
+  Calibration {
+    raw_value: 81.846924f
+    calibrated_value: 1.002992f
+  }
+  Calibration {
+    raw_value: 86.744179f
+    calibrated_value: 0.921117f
+  }
+  Calibration {
+    raw_value: 88.441254f
+    calibrated_value: 0.876438f
+  }
+  Calibration {
+    raw_value: 91.089478f
+    calibrated_value: 0.787725f
+  }
+  Calibration {
+    raw_value: 96.413002f
+    calibrated_value: 0.602402f
+  }
+  Calibration {
+    raw_value: 103.157440f
+    calibrated_value: 0.564502f
+  }
+  Calibration {
+    raw_value: 109.896133f
+    calibrated_value: 0.397988f
+  }
+  Calibration {
+    raw_value: 114.889961f
+    calibrated_value: 0.068344f
+  }
+  Calibration {
+    raw_value: 117.985626f
+    calibrated_value: 0.067186f
+  }
+  Calibration {
+    raw_value: 125.978523f
+    calibrated_value: 0.057828f
+  }
+  Calibration {
+    raw_value: 134.122314f
+    calibrated_value: -0.013575f
+  }
+  Calibration {
+    raw_value: 137.398712f
+    calibrated_value: -0.047753f
+  }
+  Calibration {
+    raw_value: 142.230194f
+    calibrated_value: -0.380931f
+  }
+  Calibration {
+    raw_value: 148.764252f
+    calibrated_value: -0.381480f
+  }
+  Calibration {
+    raw_value: 155.352539f
+    calibrated_value: -0.439842f
+  }
+  Calibration {
+    raw_value: 160.404938f
+    calibrated_value: -0.510337f
+  }
+  Calibration {
+    raw_value: 163.966949f
+    calibrated_value: -0.549304f
+  }
+  Calibration {
+    raw_value: 169.494675f
+    calibrated_value: -0.766886f
+  }
+  Calibration {
+    raw_value: 181.084106f
+    calibrated_value: -0.946476f
+  }
+  Calibration {
+    raw_value: 193.096710f
+    calibrated_value: -0.968913f
+  }
+  Calibration {
+    raw_value: 201.786987f
+    calibrated_value: -1.045123f
+  }
+  Calibration {
+    raw_value: 208.743088f
+    calibrated_value: -1.179730f
+  }
+  Calibration {
+    raw_value: 213.686127f
+    calibrated_value: -1.273589f
+  }
+  Calibration {
+    raw_value: 221.468201f
+    calibrated_value: -1.362599f
+  }
+  Calibration {
+    raw_value: 239.091064f
+    calibrated_value: -1.396663f
+  }
+  Calibration {
+    raw_value: 267.635681f
+    calibrated_value: -1.565313f
+  }
+  Calibration {
+    raw_value: 309.637268f
+    calibrated_value: -1.746660f
+  }
+  Calibration {
+    raw_value: 360.014984f
+    calibrated_value: -2.196956f
+  }
+  Calibration {
+    raw_value: inf
+    calibrated_value: -2.197461f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 148.526321f
+    calibrated_value: 3.873793f
+  }
+  Calibration {
+    raw_value: 205.589386f
+    calibrated_value: 3.819434f
+  }
+  Calibration {
+    raw_value: 212.696960f
+    calibrated_value: 3.682057f
+  }
+  Calibration {
+    raw_value: 223.980774f
+    calibrated_value: 3.539852f
+  }
+  Calibration {
+    raw_value: 249.299149f
+    calibrated_value: 3.283525f
+  }
+  Calibration {
+    raw_value: 273.659149f
+    calibrated_value: 3.220889f
+  }
+  Calibration {
+    raw_value: 285.899994f
+    calibrated_value: 3.206876f
+  }
+  Calibration {
+    raw_value: 301.492828f
+    calibrated_value: 2.748075f
+  }
+  Calibration {
+    raw_value: 320.700012f
+    calibrated_value: 2.532975f
+  }
+  Calibration {
+    raw_value: 334.714294f
+    calibrated_value: 2.347111f
+  }
+  Calibration {
+    raw_value: 342.000000f
+    calibrated_value: 2.069665f
+  }
+  Calibration {
+    raw_value: 354.505737f
+    calibrated_value: 2.006843f
+  }
+  Calibration {
+    raw_value: 368.644226f
+    calibrated_value: 1.989975f
+  }
+  Calibration {
+    raw_value: 374.111115f
+    calibrated_value: 1.709681f
+  }
+  Calibration {
+    raw_value: 379.576630f
+    calibrated_value: 1.667393f
+  }
+  Calibration {
+    raw_value: 384.500000f
+    calibrated_value: 1.534045f
+  }
+  Calibration {
+    raw_value: 397.494263f
+    calibrated_value: 1.487900f
+  }
+  Calibration {
+    raw_value: 416.476196f
+    calibrated_value: 1.231324f
+  }
+  Calibration {
+    raw_value: 427.000000f
+    calibrated_value: 1.043331f
+  }
+  Calibration {
+    raw_value: 433.947815f
+    calibrated_value: 1.032609f
+  }
+  Calibration {
+    raw_value: 446.000000f
+    calibrated_value: 1.012461f
+  }
+  Calibration {
+    raw_value: 457.600006f
+    calibrated_value: 0.766364f
+  }
+  Calibration {
+    raw_value: 463.833313f
+    calibrated_value: 0.729982f
+  }
+  Calibration {
+    raw_value: 472.631592f
+    calibrated_value: 0.461955f
+  }
+  Calibration {
+    raw_value: 486.216675f
+    calibrated_value: 0.429367f
+  }
+  Calibration {
+    raw_value: 497.684204f
+    calibrated_value: 0.180764f
+  }
+  Calibration {
+    raw_value: 509.875000f
+    calibrated_value: 0.178575f
+  }
+  Calibration {
+    raw_value: 521.428589f
+    calibrated_value: 0.168573f
+  }
+  Calibration {
+    raw_value: 532.035706f
+    calibrated_value: 0.012407f
+  }
+  Calibration {
+    raw_value: 550.000000f
+    calibrated_value: -0.057969f
+  }
+  Calibration {
+    raw_value: 571.500000f
+    calibrated_value: -0.305831f
+  }
+  Calibration {
+    raw_value: 602.857178f
+    calibrated_value: -0.330974f
+  }
+  Calibration {
+    raw_value: 629.561523f
+    calibrated_value: -0.490796f
+  }
+  Calibration {
+    raw_value: 638.933350f
+    calibrated_value: -0.591646f
+  }
+  Calibration {
+    raw_value: 652.893921f
+    calibrated_value: -0.730014f
+  }
+  Calibration {
+    raw_value: 686.576904f
+    calibrated_value: -0.766881f
+  }
+  Calibration {
+    raw_value: 729.599976f
+    calibrated_value: -0.843877f
+  }
+  Calibration {
+    raw_value: 777.361877f
+    calibrated_value: -1.067830f
+  }
+  Calibration {
+    raw_value: 864.750000f
+    calibrated_value: -1.105834f
+  }
+  Calibration {
+    raw_value: 965.333313f
+    calibrated_value: -1.296944f
+  }
+  Calibration {
+    raw_value: 1054.785645f
+    calibrated_value: -1.482256f
+  }
+  Calibration {
+    raw_value: 1189.733398f
+    calibrated_value: -1.527762f
+  }
+  Calibration {
+    raw_value: 1294.000000f
+    calibrated_value: -1.592025f
+  }
+  Calibration {
+    raw_value: 1364.266602f
+    calibrated_value: -2.062258f
+  }
+  Calibration {
+    raw_value: 2792.833252f
+    calibrated_value: -2.126558f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: -10169491896951373824.000000f
+    calibrated_value: 1.211700f
+  }
+  Calibration {
+    raw_value: -3762.965820f
+    calibrated_value: 1.096259f
+  }
+  Calibration {
+    raw_value: -3646.976562f
+    calibrated_value: 0.777393f
+  }
+  Calibration {
+    raw_value: -3553.469727f
+    calibrated_value: 0.738188f
+  }
+  Calibration {
+    raw_value: -3492.790527f
+    calibrated_value: 0.632439f
+  }
+  Calibration {
+    raw_value: -3397.963135f
+    calibrated_value: 0.483413f
+  }
+  Calibration {
+    raw_value: -3303.837402f
+    calibrated_value: 0.474392f
+  }
+  Calibration {
+    raw_value: -3257.801270f
+    calibrated_value: 0.351894f
+  }
+  Calibration {
+    raw_value: -3199.334961f
+    calibrated_value: 0.259779f
+  }
+  Calibration {
+    raw_value: -3130.758301f
+    calibrated_value: 0.239903f
+  }
+  Calibration {
+    raw_value: -3085.075195f
+    calibrated_value: 0.221758f
+  }
+  Calibration {
+    raw_value: -3057.008301f
+    calibrated_value: 0.201998f
+  }
+  Calibration {
+    raw_value: -3029.830811f
+    calibrated_value: 0.094976f
+  }
+  Calibration {
+    raw_value: -3003.629883f
+    calibrated_value: 0.007813f
+  }
+  Calibration {
+    raw_value: -2966.461426f
+    calibrated_value: -0.039999f
+  }
+  Calibration {
+    raw_value: -2918.294922f
+    calibrated_value: -0.041884f
+  }
+  Calibration {
+    raw_value: -2881.597412f
+    calibrated_value: -0.118873f
+  }
+  Calibration {
+    raw_value: -2857.239258f
+    calibrated_value: -0.166442f
+  }
+  Calibration {
+    raw_value: -2818.843262f
+    calibrated_value: -0.208905f
+  }
+  Calibration {
+    raw_value: -2763.061768f
+    calibrated_value: -0.319365f
+  }
+  Calibration {
+    raw_value: -2717.345703f
+    calibrated_value: -0.320636f
+  }
+  Calibration {
+    raw_value: -2683.500000f
+    calibrated_value: -0.576591f
+  }
+  Calibration {
+    raw_value: -2645.961426f
+    calibrated_value: -0.630334f
+  }
+  Calibration {
+    raw_value: -2604.000000f
+    calibrated_value: -0.800305f
+  }
+  Calibration {
+    raw_value: -2517.126465f
+    calibrated_value: -0.808836f
+  }
+  Calibration {
+    raw_value: -2397.487305f
+    calibrated_value: -1.004797f
+  }
+  Calibration {
+    raw_value: -1865.629883f
+    calibrated_value: -1.401243f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: -50000001002043867136.000000f
+    calibrated_value: 1.401622f
+  }
+  Calibration {
+    raw_value: 83.033333f
+    calibrated_value: 1.320844f
+  }
+  Calibration {
+    raw_value: 91.492859f
+    calibrated_value: 1.127975f
+  }
+  Calibration {
+    raw_value: 108.005013f
+    calibrated_value: 0.918553f
+  }
+  Calibration {
+    raw_value: 122.834137f
+    calibrated_value: 0.771404f
+  }
+  Calibration {
+    raw_value: 128.239227f
+    calibrated_value: 0.724350f
+  }
+  Calibration {
+    raw_value: 134.600006f
+    calibrated_value: 0.555589f
+  }
+  Calibration {
+    raw_value: 147.166656f
+    calibrated_value: 0.516785f
+  }
+  Calibration {
+    raw_value: 159.443390f
+    calibrated_value: 0.340517f
+  }
+  Calibration {
+    raw_value: 167.416656f
+    calibrated_value: 0.234411f
+  }
+  Calibration {
+    raw_value: 174.781815f
+    calibrated_value: 0.163336f
+  }
+  Calibration {
+    raw_value: 179.366669f
+    calibrated_value: 0.042058f
+  }
+  Calibration {
+    raw_value: 182.303024f
+    calibrated_value: 0.035604f
+  }
+  Calibration {
+    raw_value: 190.699997f
+    calibrated_value: 0.005367f
+  }
+  Calibration {
+    raw_value: 198.745819f
+    calibrated_value: -0.034008f
+  }
+  Calibration {
+    raw_value: 202.486099f
+    calibrated_value: -0.332796f
+  }
+  Calibration {
+    raw_value: 208.615387f
+    calibrated_value: -0.366309f
+  }
+  Calibration {
+    raw_value: 225.324646f
+    calibrated_value: -0.394710f
+  }
+  Calibration {
+    raw_value: 242.644440f
+    calibrated_value: -0.688133f
+  }
+  Calibration {
+    raw_value: 249.017548f
+    calibrated_value: -0.702788f
+  }
+  Calibration {
+    raw_value: 263.009399f
+    calibrated_value: -0.781345f
+  }
+  Calibration {
+    raw_value: 277.000000f
+    calibrated_value: -0.849786f
+  }
+  Calibration {
+    raw_value: 285.250916f
+    calibrated_value: -1.030893f
+  }
+  Calibration {
+    raw_value: 303.750000f
+    calibrated_value: -1.046144f
+  }
+  Calibration {
+    raw_value: 325.121429f
+    calibrated_value: -1.284520f
+  }
+  Calibration {
+    raw_value: 345.475555f
+    calibrated_value: -1.331950f
+  }
+  Calibration {
+    raw_value: 365.146179f
+    calibrated_value: -1.399278f
+  }
+  Calibration {
+    raw_value: 384.296631f
+    calibrated_value: -1.471451f
+  }
+  Calibration {
+    raw_value: 414.533325f
+    calibrated_value: -1.636126f
+  }
+  Calibration {
+    raw_value: 617.642822f
+    calibrated_value: -1.821859f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 60797.000000f
+    calibrated_value: -1.687890f
+  }
+  Calibration {
+    raw_value: 85693.000000f
+    calibrated_value: -1.563457f
+  }
+  Calibration {
+    raw_value: 90110.000000f
+    calibrated_value: -1.534235f
+  }
+  Calibration {
+    raw_value: 92766.000000f
+    calibrated_value: -1.508585f
+  }
+  Calibration {
+    raw_value: 93754.000000f
+    calibrated_value: -1.400256f
+  }
+  Calibration {
+    raw_value: 95249.000000f
+    calibrated_value: -1.375032f
+  }
+  Calibration {
+    raw_value: 97191.000000f
+    calibrated_value: -1.350832f
+  }
+  Calibration {
+    raw_value: 99095.000000f
+    calibrated_value: -1.344638f
+  }
+  Calibration {
+    raw_value: 103894.000000f
+    calibrated_value: -1.298826f
+  }
+  Calibration {
+    raw_value: 111516.000000f
+    calibrated_value: -1.268747f
+  }
+  Calibration {
+    raw_value: 116274.000000f
+    calibrated_value: -1.113861f
+  }
+  Calibration {
+    raw_value: 118246.000000f
+    calibrated_value: -1.096198f
+  }
+  Calibration {
+    raw_value: 121214.000000f
+    calibrated_value: -1.055023f
+  }
+  Calibration {
+    raw_value: 123694.000000f
+    calibrated_value: -0.916959f
+  }
+  Calibration {
+    raw_value: 124643.000000f
+    calibrated_value: -0.822066f
+  }
+  Calibration {
+    raw_value: 126110.000000f
+    calibrated_value: -0.776748f
+  }
+  Calibration {
+    raw_value: 129233.000000f
+    calibrated_value: -0.736413f
+  }
+  Calibration {
+    raw_value: 132329.000000f
+    calibrated_value: -0.626702f
+  }
+  Calibration {
+    raw_value: 133799.000000f
+    calibrated_value: -0.613357f
+  }
+  Calibration {
+    raw_value: 134520.000000f
+    calibrated_value: -0.459952f
+  }
+  Calibration {
+    raw_value: 135028.000000f
+    calibrated_value: -0.282934f
+  }
+  Calibration {
+    raw_value: 137510.000000f
+    calibrated_value: -0.274820f
+  }
+  Calibration {
+    raw_value: 141971.000000f
+    calibrated_value: -0.243792f
+  }
+  Calibration {
+    raw_value: 146493.000000f
+    calibrated_value: 0.059813f
+  }
+  Calibration {
+    raw_value: 151248.000000f
+    calibrated_value: 0.161431f
+  }
+  Calibration {
+    raw_value: 154950.000000f
+    calibrated_value: 0.204860f
+  }
+  Calibration {
+    raw_value: 156759.000000f
+    calibrated_value: 0.360141f
+  }
+  Calibration {
+    raw_value: 158021.000000f
+    calibrated_value: 0.424106f
+  }
+  Calibration {
+    raw_value: 161516.000000f
+    calibrated_value: 0.430261f
+  }
+  Calibration {
+    raw_value: 165705.000000f
+    calibrated_value: 0.475192f
+  }
+  Calibration {
+    raw_value: 168636.000000f
+    calibrated_value: 0.708943f
+  }
+  Calibration {
+    raw_value: 173398.000000f
+    calibrated_value: 0.725901f
+  }
+  Calibration {
+    raw_value: 178408.000000f
+    calibrated_value: 0.824829f
+  }
+  Calibration {
+    raw_value: 182044.000000f
+    calibrated_value: 0.905186f
+  }
+  Calibration {
+    raw_value: 187792.000000f
+    calibrated_value: 0.908993f
+  }
+  Calibration {
+    raw_value: 193802.000000f
+    calibrated_value: 1.045368f
+  }
+  Calibration {
+    raw_value: 198311.000000f
+    calibrated_value: 1.128644f
+  }
+  Calibration {
+    raw_value: 214255.000000f
+    calibrated_value: 1.130419f
+  }
+  Calibration {
+    raw_value: 230091.000000f
+    calibrated_value: 1.211700f
+  }
+  Calibration {
+    raw_value: 235290.000000f
+    calibrated_value: 1.229091f
+  }
+  Calibration {
+    raw_value: 245706.000000f
+    calibrated_value: 1.275880f
+  }
+  Calibration {
+    raw_value: 387860.000000f
+    calibrated_value: 1.365235f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 9.000000f
+    calibrated_value: 1.400062f
+  }
+  Calibration {
+    raw_value: 26.000000f
+    calibrated_value: 1.302545f
+  }
+  Calibration {
+    raw_value: 34.000000f
+    calibrated_value: 0.596604f
+  }
+  Calibration {
+    raw_value: 35.500000f
+    calibrated_value: 0.509291f
+  }
+  Calibration {
+    raw_value: 37.500000f
+    calibrated_value: 0.320152f
+  }
+  Calibration {
+    raw_value: 39.500000f
+    calibrated_value: 0.171082f
+  }
+  Calibration {
+    raw_value: 44.000000f
+    calibrated_value: -0.036003f
+  }
+  Calibration {
+    raw_value: 55.500000f
+    calibrated_value: -0.137109f
+  }
+  Calibration {
+    raw_value: 68.500000f
+    calibrated_value: -0.373390f
+  }
+  Calibration {
+    raw_value: 78.000000f
+    calibrated_value: -0.529236f
+  }
+  Calibration {
+    raw_value: 92.500000f
+    calibrated_value: -0.795834f
+  }
+  Calibration {
+    raw_value: 114.500000f
+    calibrated_value: -0.811481f
+  }
+  Calibration {
+    raw_value: 133.000000f
+    calibrated_value: -0.958498f
+  }
+  Calibration {
+    raw_value: 141.500000f
+    calibrated_value: -1.157892f
+  }
+  Calibration {
+    raw_value: 145.500000f
+    calibrated_value: -1.229870f
+  }
+  Calibration {
+    raw_value: 149.500000f
+    calibrated_value: -1.586471f
+  }
+  Calibration {
+    raw_value: 153.000000f
+    calibrated_value: -1.594719f
+  }
+  Calibration {
+    raw_value: 170.500000f
+    calibrated_value: -1.637866f
+  }
+  Calibration {
+    raw_value: 206.500000f
+    calibrated_value: -1.680837f
+  }
+  Calibration {
+    raw_value: 232.500000f
+    calibrated_value: -2.168692f
+  }
+  Calibration {
+    raw_value: 244.500000f
+    calibrated_value: -2.263026f
+  }
+  Calibration {
+    raw_value: 264.000000f
+    calibrated_value: -2.397194f
+  }
+  Calibration {
+    raw_value: 312.000000f
+    calibrated_value: -2.500049f
+  }
+  Calibration {
+    raw_value: 373.500000f
+    calibrated_value: -2.539899f
+  }
+  Calibration {
+    raw_value: 441.500000f
+    calibrated_value: -3.101828f
+  }
+  Calibration {
+    raw_value: 1764.000000f
+    calibrated_value: -4.045371f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: -1.022021f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: 1.790209f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: -1.099103f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: 0.791822f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: -1.022021f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: 1.790209f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: -0.562168f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: 1.234327f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: -0.642867f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: 0.902472f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 1.790209f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -1.022021f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.791822f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -1.099103f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 1.790209f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -1.022021f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 1.234327f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -0.562168f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.902472f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -0.642867f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.039888f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -0.508807f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.089373f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -1.525164f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: -0.250000f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: 0.250000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.019917f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -1.135077f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.097490f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -1.384663f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.047514f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -1.216247f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: -0.250000f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: 0.250000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.577940f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -1.189491f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.599900f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -1.430825f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.017461f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -1.701584f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.067907f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -0.524759f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.036829f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -0.731294f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.108512f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -0.799128f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.038499f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -0.166876f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.033187f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -0.343781f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.086740f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -0.954100f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.048684f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -2.292546f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.027328f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -1.478158f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: -0.250000f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: 0.250000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: -0.250000f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: 0.250000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.025908f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: -0.308737f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: -0.250000f
+  }
+  Calibration {
+    raw_value: 1.000000f
+    calibrated_value: 0.250000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.157186f
+    calibrated_value: -1.347039f
+  }
+  Calibration {
+    raw_value: 0.243056f
+    calibrated_value: -1.242744f
+  }
+  Calibration {
+    raw_value: 0.321237f
+    calibrated_value: -0.300754f
+  }
+  Calibration {
+    raw_value: 0.394260f
+    calibrated_value: -0.105272f
+  }
+  Calibration {
+    raw_value: 0.437265f
+    calibrated_value: 0.368720f
+  }
+  Calibration {
+    raw_value: 0.490496f
+    calibrated_value: 0.938986f
+  }
+  Calibration {
+    raw_value: 0.570053f
+    calibrated_value: 1.033032f
+  }
+  Calibration {
+    raw_value: 0.688659f
+    calibrated_value: 1.244666f
+  }
+  Calibration {
+    raw_value: 0.840426f
+    calibrated_value: 1.955290f
+  }
+  Calibration {
+    raw_value: 0.955114f
+    calibrated_value: 2.200871f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.000000f
+  }
+>
+calibration <
+  Calibration {
+    raw_value: 0.000000f
+    calibrated_value: 0.250000f
+  }
+  Calibration {
+    raw_value: inf
+    calibrated_value: -0.250000f
+  }
+>
+quadratic: true
+weights <
+  constant_term: -1.80436
+  linear_weights: 0.0916409
+  linear_weights: -0.0364246
+  linear_weights: -0.157153
+  linear_weights: 0.0213651
+  linear_weights: 0.0631123
+  linear_weights: 0.284105
+  linear_weights: -0.226487
+  linear_weights: 0.13163
+  linear_weights: 0.133099
+  linear_weights: 0.159458
+  linear_weights: 0.789196
+  linear_weights: 0.158182
+  linear_weights: 0.0
+  linear_weights: 0.0
+  linear_weights: 0.0084421
+  linear_weights: 0.625387
+  linear_weights: 0.0126919
+  linear_weights: 0.349117
+  linear_weights: 0.0126919
+  linear_weights: 0.0557386
+  linear_weights: 0.0957575
+  linear_weights: 0.0126919
+  linear_weights: 0.349117
+  linear_weights: 0.0126919
+  linear_weights: 0.0557386
+  linear_weights: 0.0957575
+  linear_weights: 0.0
+  linear_weights: 0.0
+  linear_weights: 0.0
+  linear_weights: 0.145361
+  linear_weights: 0.139403
+  linear_weights: 0.0
+  linear_weights: 0.0
+  linear_weights: 0.0
+  linear_weights: 0.40863
+  linear_weights: 0.0
+  linear_weights: 0.259403
+  linear_weights: 0.0
+  linear_weights: 0.177921
+  linear_weights: 0.0
+  linear_weights: 0.212932
+  linear_weights: 0.0
+  linear_weights: -0.0394334
+  linear_weights: 0.0
+  linear_weights: 0.145056
+  linear_weights: 0.288168
+  linear_weights: 0.0
+  linear_weights: 0.204209
+  linear_weights: 0.307828
+  linear_weights: 0.0
+  linear_weights: 0.226832
+  linear_weights: 0.624696
+  linear_weights: 0.0
+  linear_weights: 0.0733617
+  linear_weights: 0.0
+  linear_weights: 0.463777
+  linear_weights: 0.359919
+  linear_weights: 0.0
+  linear_weights: 0.0
+  linear_weights: 0.0
+  linear_weights: 0.161363
+  linear_weights: 0.176339
+  linear_weights: 0.427035
+  linear_weights: 0.0
+  linear_weights: 0.336679
+  linear_weights: -0.040537
+  linear_weights: 0.0
+  linear_weights: -0.371789
+  linear_weights: 0.0
+  linear_weights: 0.0
+  linear_weights: 0.435527
+  linear_weights: 0.0
+  linear_weights: 0.0217983
+  quadratic_weights: -0.00340836
+  quadratic_weights: -0.183272
+  quadratic_weights: 4.70011e-05
+  quadratic_weights: 0.0481339
+  quadratic_weights: -0.0388499
+  quadratic_weights: -0.142866
+  quadratic_weights: 0.136316
+  quadratic_weights: 0.0187454
+  quadratic_weights: -0.0304382
+  quadratic_weights: -0.11352
+  quadratic_weights: 0.0190823
+  quadratic_weights: 0.0853188
+  quadratic_weights: -0.0828929
+  quadratic_weights: -0.000520468
+  quadratic_weights: -0.07521
+  quadratic_weights: 0.0403278
+  quadratic_weights: -1.71763e-05
+  quadratic_weights: 0.0438221
+  quadratic_weights: 0.170377
+  quadratic_weights: 0.0914313
+  quadratic_weights: -0.106342
+  quadratic_weights: -0.0413206
+  quadratic_weights: -0.0375892
+  quadratic_weights: -0.146173
+  quadratic_weights: -0.0505986
+  quadratic_weights: -0.0411701
+  quadratic_weights: 0.0843122
+  quadratic_weights: -0.0975016
+  quadratic_weights: 0.0172153
+  quadratic_weights: -0.100223
+  quadratic_weights: 0.122236
+  quadratic_weights: -0.0287608
+  quadratic_weights: 0.00412888
+  quadratic_weights: 0.020655
+  quadratic_weights: 0.0595318
+  quadratic_weights: -0.122529
+  quadratic_weights: 0.0301721
+  quadratic_weights: -0.00800813
+  quadratic_weights: 0.0209387
+  quadratic_weights: 0.0114979
+  quadratic_weights: 0.0649657
+  quadratic_weights: -0.0052546
+  quadratic_weights: 0.0692596
+  quadratic_weights: -0.0925669
+  quadratic_weights: -0.0672442
+  quadratic_weights: 0.068807
+  quadratic_weights: -0.160808
+  quadratic_weights: 0.0500238
+  quadratic_weights: 0.0830545
+  quadratic_weights: 0.102077
+  quadratic_weights: 0.0436345
+  quadratic_weights: 0.0748382
+  quadratic_weights: -0.061583
+  quadratic_weights: 0.0120434
+  quadratic_weights: 0.0757451
+  quadratic_weights: -0.136747
+  quadratic_weights: 0.145673
+  quadratic_weights: 0.222036
+  quadratic_weights: 0.158133
+  quadratic_weights: 0.106895
+  quadratic_weights: -0.153878
+  quadratic_weights: -0.00371405
+  quadratic_weights: -0.122582
+  quadratic_weights: -0.0727855
+  quadratic_weights: 0.0726998
+  quadratic_weights: 0.281761
+  quadratic_weights: 0.0409543
+  quadratic_weights: -0.057951
+  quadratic_weights: -0.040517
+  quadratic_weights: -0.0960933
+  quadratic_weights: -0.0209756
+  quadratic_weights: 0.0749116
+  quadratic_weights: 0.031834
+  quadratic_weights: 0.0506685
+  quadratic_weights: 0.183031
+  quadratic_weights: -0.00507887
+  quadratic_weights: 0.053551
+  quadratic_weights: -0.111333
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.018988
+  quadratic_weights: 0.103774
+  quadratic_weights: 0.0640589
+  quadratic_weights: 0.0393791
+  quadratic_weights: 0.0610643
+  quadratic_weights: -0.143492
+  quadratic_weights: 0.0970136
+  quadratic_weights: -0.0105258
+  quadratic_weights: -0.0378025
+  quadratic_weights: -0.089728
+  quadratic_weights: -0.0122925
+  quadratic_weights: -0.0739537
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0272805
+  quadratic_weights: -0.148658
+  quadratic_weights: 0.0902232
+  quadratic_weights: 0.172941
+  quadratic_weights: 0.105563
+  quadratic_weights: 0.162589
+  quadratic_weights: -0.0106181
+  quadratic_weights: 0.00413599
+  quadratic_weights: 0.0717491
+  quadratic_weights: -0.213894
+  quadratic_weights: 0.193348
+  quadratic_weights: -0.291605
+  quadratic_weights: -0.0172222
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.115378
+  quadratic_weights: -0.227326
+  quadratic_weights: 0.00653279
+  quadratic_weights: -0.0335913
+  quadratic_weights: 0.0157164
+  quadratic_weights: 0.0072238
+  quadratic_weights: 0.0258973
+  quadratic_weights: 0.0128306
+  quadratic_weights: -0.00168535
+  quadratic_weights: 0.0260023
+  quadratic_weights: 0.0120362
+  quadratic_weights: 0.000416283
+  quadratic_weights: 0.0576563
+  quadratic_weights: 0.0367226
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0031117
+  quadratic_weights: 0.0297974
+  quadratic_weights: 0.0677741
+  quadratic_weights: -0.00958529
+  quadratic_weights: 0.0557362
+  quadratic_weights: 0.132297
+  quadratic_weights: 0.00542152
+  quadratic_weights: 0.0059314
+  quadratic_weights: -0.0501963
+  quadratic_weights: 0.0246504
+  quadratic_weights: 0.0891458
+  quadratic_weights: -0.0879337
+  quadratic_weights: 0.0550399
+  quadratic_weights: -0.0148911
+  quadratic_weights: 0.0050612
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0174765
+  quadratic_weights: 0.0454183
+  quadratic_weights: 0.0101997
+  quadratic_weights: -0.0796768
+  quadratic_weights: 0.00653279
+  quadratic_weights: -0.0335913
+  quadratic_weights: 0.0157164
+  quadratic_weights: 0.0072238
+  quadratic_weights: 0.0258973
+  quadratic_weights: 0.0128306
+  quadratic_weights: -0.00168535
+  quadratic_weights: 0.0260023
+  quadratic_weights: 0.0120362
+  quadratic_weights: 0.000416283
+  quadratic_weights: 0.0576563
+  quadratic_weights: 0.0367226
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0031117
+  quadratic_weights: 0.0297974
+  quadratic_weights: 0.0677741
+  quadratic_weights: 0.0101997
+  quadratic_weights: 0.0677741
+  quadratic_weights: -0.0588713
+  quadratic_weights: -0.051085
+  quadratic_weights: 0.093732
+  quadratic_weights: -0.0400938
+  quadratic_weights: 0.070345
+  quadratic_weights: -0.0275553
+  quadratic_weights: -0.102048
+  quadratic_weights: 0.0519497
+  quadratic_weights: -0.00369263
+  quadratic_weights: 0.0218435
+  quadratic_weights: 0.0424543
+  quadratic_weights: -0.0218175
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.064506
+  quadratic_weights: -0.0158075
+  quadratic_weights: 0.0149514
+  quadratic_weights: -0.0102491
+  quadratic_weights: 0.0149514
+  quadratic_weights: 0.0594713
+  quadratic_weights: -0.0999068
+  quadratic_weights: 0.0232536
+  quadratic_weights: 0.00807076
+  quadratic_weights: 0.0631599
+  quadratic_weights: 0.0352554
+  quadratic_weights: 0.0344635
+  quadratic_weights: -0.0904413
+  quadratic_weights: 0.0434143
+  quadratic_weights: -7.5254e-05
+  quadratic_weights: -0.0237942
+  quadratic_weights: 0.0494076
+  quadratic_weights: 0.0545234
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00692034
+  quadratic_weights: 0.0110706
+  quadratic_weights: -0.0108219
+  quadratic_weights: -0.0255495
+  quadratic_weights: -0.0108219
+  quadratic_weights: 0.0576948
+  quadratic_weights: 0.0432584
+  quadratic_weights: 0.00653279
+  quadratic_weights: -0.0335913
+  quadratic_weights: 0.0157164
+  quadratic_weights: 0.0072238
+  quadratic_weights: 0.0258973
+  quadratic_weights: 0.0128306
+  quadratic_weights: -0.00168535
+  quadratic_weights: 0.0260023
+  quadratic_weights: 0.0120362
+  quadratic_weights: 0.000416283
+  quadratic_weights: 0.0576563
+  quadratic_weights: 0.0367226
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0031117
+  quadratic_weights: 0.0297974
+  quadratic_weights: 0.0677741
+  quadratic_weights: 0.0101997
+  quadratic_weights: 0.0677741
+  quadratic_weights: 0.0149514
+  quadratic_weights: -0.0108219
+  quadratic_weights: 0.0677741
+  quadratic_weights: -0.00958529
+  quadratic_weights: 0.0557362
+  quadratic_weights: 0.132297
+  quadratic_weights: 0.00542152
+  quadratic_weights: 0.0059314
+  quadratic_weights: -0.0501963
+  quadratic_weights: 0.0246504
+  quadratic_weights: 0.0891458
+  quadratic_weights: -0.0879337
+  quadratic_weights: 0.0550399
+  quadratic_weights: -0.0148911
+  quadratic_weights: 0.0050612
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0174765
+  quadratic_weights: 0.0454183
+  quadratic_weights: 0.0101997
+  quadratic_weights: -0.0796768
+  quadratic_weights: 0.0101997
+  quadratic_weights: -0.0102491
+  quadratic_weights: -0.0255495
+  quadratic_weights: 0.0101997
+  quadratic_weights: -0.0796768
+  quadratic_weights: 0.00653279
+  quadratic_weights: -0.0335913
+  quadratic_weights: 0.0157164
+  quadratic_weights: 0.0072238
+  quadratic_weights: 0.0258973
+  quadratic_weights: 0.0128306
+  quadratic_weights: -0.00168535
+  quadratic_weights: 0.0260023
+  quadratic_weights: 0.0120362
+  quadratic_weights: 0.000416283
+  quadratic_weights: 0.0576563
+  quadratic_weights: 0.0367226
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0031117
+  quadratic_weights: 0.0297974
+  quadratic_weights: 0.0677741
+  quadratic_weights: 0.0101997
+  quadratic_weights: 0.0677741
+  quadratic_weights: 0.0149514
+  quadratic_weights: -0.0108219
+  quadratic_weights: 0.0677741
+  quadratic_weights: 0.0101997
+  quadratic_weights: 0.0677741
+  quadratic_weights: -0.0588713
+  quadratic_weights: -0.051085
+  quadratic_weights: 0.093732
+  quadratic_weights: -0.0400938
+  quadratic_weights: 0.070345
+  quadratic_weights: -0.0275553
+  quadratic_weights: -0.102048
+  quadratic_weights: 0.0519497
+  quadratic_weights: -0.00369263
+  quadratic_weights: 0.0218435
+  quadratic_weights: 0.0424543
+  quadratic_weights: -0.0218175
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.064506
+  quadratic_weights: -0.0158075
+  quadratic_weights: 0.0149514
+  quadratic_weights: -0.0102491
+  quadratic_weights: 0.0149514
+  quadratic_weights: 0.0594713
+  quadratic_weights: 0.0576948
+  quadratic_weights: 0.0149514
+  quadratic_weights: -0.0102491
+  quadratic_weights: 0.0149514
+  quadratic_weights: 0.0594713
+  quadratic_weights: -0.0999068
+  quadratic_weights: 0.0232536
+  quadratic_weights: 0.00807076
+  quadratic_weights: 0.0631599
+  quadratic_weights: 0.0352554
+  quadratic_weights: 0.0344635
+  quadratic_weights: -0.0904413
+  quadratic_weights: 0.0434143
+  quadratic_weights: -7.5254e-05
+  quadratic_weights: -0.0237942
+  quadratic_weights: 0.0494076
+  quadratic_weights: 0.0545234
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00692034
+  quadratic_weights: 0.0110706
+  quadratic_weights: -0.0108219
+  quadratic_weights: -0.0255495
+  quadratic_weights: -0.0108219
+  quadratic_weights: 0.0576948
+  quadratic_weights: 0.0432584
+  quadratic_weights: -0.0108219
+  quadratic_weights: -0.0255495
+  quadratic_weights: -0.0108219
+  quadratic_weights: 0.0576948
+  quadratic_weights: 0.0432584
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.16422
+  quadratic_weights: 0.0895992
+  quadratic_weights: 0.0970935
+  quadratic_weights: 0.208716
+  quadratic_weights: -0.0746546
+  quadratic_weights: -0.158115
+  quadratic_weights: -0.0762664
+  quadratic_weights: 0.0659316
+  quadratic_weights: -0.100664
+  quadratic_weights: -0.066436
+  quadratic_weights: -0.0368563
+  quadratic_weights: 0.120161
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.143766
+  quadratic_weights: -0.265933
+  quadratic_weights: 0.0621639
+  quadratic_weights: -0.134909
+  quadratic_weights: 0.0621639
+  quadratic_weights: 0.0989713
+  quadratic_weights: 0.0190522
+  quadratic_weights: 0.0621639
+  quadratic_weights: -0.134909
+  quadratic_weights: 0.0621639
+  quadratic_weights: 0.0989713
+  quadratic_weights: 0.0190522
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0675191
+  quadratic_weights: -0.0221575
+  quadratic_weights: 0.0955156
+  quadratic_weights: -0.198634
+  quadratic_weights: -0.0215374
+  quadratic_weights: -0.00223605
+  quadratic_weights: 0.0751267
+  quadratic_weights: 0.0521811
+  quadratic_weights: -0.146755
+  quadratic_weights: -0.0884724
+  quadratic_weights: 0.119709
+  quadratic_weights: 0.0515146
+  quadratic_weights: 0.0620758
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0295041
+  quadratic_weights: 0.0699001
+  quadratic_weights: 0.0401024
+  quadratic_weights: 0.0366139
+  quadratic_weights: 0.0401024
+  quadratic_weights: 0.0380821
+  quadratic_weights: 0.0673768
+  quadratic_weights: 0.0401024
+  quadratic_weights: 0.0366139
+  quadratic_weights: 0.0401024
+  quadratic_weights: 0.0380821
+  quadratic_weights: 0.0673768
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0184389
+  quadratic_weights: -0.195831
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0792142
+  quadratic_weights: 0.309451
+  quadratic_weights: 0.17073
+  quadratic_weights: 0.0784165
+  quadratic_weights: 0.0458978
+  quadratic_weights: 0.0471049
+  quadratic_weights: 0.115963
+  quadratic_weights: -0.0762395
+  quadratic_weights: -0.116268
+  quadratic_weights: -0.113147
+  quadratic_weights: 0.035133
+  quadratic_weights: -0.0467882
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.270111
+  quadratic_weights: 0.274307
+  quadratic_weights: 0.07202
+  quadratic_weights: 0.31006
+  quadratic_weights: 0.07202
+  quadratic_weights: -0.0629132
+  quadratic_weights: -0.121327
+  quadratic_weights: 0.07202
+  quadratic_weights: 0.31006
+  quadratic_weights: 0.07202
+  quadratic_weights: -0.0629132
+  quadratic_weights: -0.121327
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0732532
+  quadratic_weights: -0.0286339
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0019821
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0752224
+  quadratic_weights: 0.077474
+  quadratic_weights: 0.0905354
+  quadratic_weights: 0.117132
+  quadratic_weights: 0.0808202
+  quadratic_weights: 0.0249425
+  quadratic_weights: 0.0259891
+  quadratic_weights: 0.0192159
+  quadratic_weights: 0.0418049
+  quadratic_weights: 0.0546506
+  quadratic_weights: -0.057662
+  quadratic_weights: 0.122124
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0210123
+  quadratic_weights: -0.207343
+  quadratic_weights: 0.0211601
+  quadratic_weights: 0.0476617
+  quadratic_weights: 0.0211601
+  quadratic_weights: 0.0435659
+  quadratic_weights: -0.0271343
+  quadratic_weights: 0.0211601
+  quadratic_weights: 0.0476617
+  quadratic_weights: 0.0211601
+  quadratic_weights: 0.0435659
+  quadratic_weights: -0.0271343
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0572695
+  quadratic_weights: -0.0626699
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0253941
+  quadratic_weights: 0.0
+  quadratic_weights: -0.288559
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.184494
+  quadratic_weights: 0.162485
+  quadratic_weights: 0.203774
+  quadratic_weights: 0.228578
+  quadratic_weights: -0.088059
+  quadratic_weights: -0.155564
+  quadratic_weights: 0.00660143
+  quadratic_weights: 0.210903
+  quadratic_weights: -0.0734827
+  quadratic_weights: 0.0115401
+  quadratic_weights: -0.187241
+  quadratic_weights: 0.0169787
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0470267
+  quadratic_weights: -0.0171761
+  quadratic_weights: 0.0567436
+  quadratic_weights: -0.00737758
+  quadratic_weights: 0.0567436
+  quadratic_weights: -0.031731
+  quadratic_weights: -0.0371931
+  quadratic_weights: 0.0567436
+  quadratic_weights: -0.00737758
+  quadratic_weights: 0.0567436
+  quadratic_weights: -0.031731
+  quadratic_weights: -0.0371931
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0211449
+  quadratic_weights: 0.0292155
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00972331
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0221395
+  quadratic_weights: 0.0
+  quadratic_weights: -0.224734
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.190917
+  quadratic_weights: 0.114697
+  quadratic_weights: 0.142983
+  quadratic_weights: 0.0430861
+  quadratic_weights: -0.0104205
+  quadratic_weights: 0.202796
+  quadratic_weights: -0.0809976
+  quadratic_weights: 0.0445104
+  quadratic_weights: 0.0128978
+  quadratic_weights: 0.0445406
+  quadratic_weights: -0.00530603
+  quadratic_weights: 0.0633043
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.132166
+  quadratic_weights: 0.127584
+  quadratic_weights: 0.0179339
+  quadratic_weights: 0.0245221
+  quadratic_weights: 0.0179339
+  quadratic_weights: -0.0836713
+  quadratic_weights: 0.213762
+  quadratic_weights: 0.0179339
+  quadratic_weights: 0.0245221
+  quadratic_weights: 0.0179339
+  quadratic_weights: -0.0836713
+  quadratic_weights: 0.213762
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0909903
+  quadratic_weights: -0.0471991
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0282274
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0165362
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0675488
+  quadratic_weights: 0.0
+  quadratic_weights: -0.247028
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.199477
+  quadratic_weights: 0.133324
+  quadratic_weights: -0.137972
+  quadratic_weights: -0.094044
+  quadratic_weights: -0.0090449
+  quadratic_weights: 0.0520848
+  quadratic_weights: 0.0137234
+  quadratic_weights: 0.0655699
+  quadratic_weights: -0.103407
+  quadratic_weights: -0.0496833
+  quadratic_weights: -0.47596
+  quadratic_weights: 0.20993
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.190101
+  quadratic_weights: -0.250836
+  quadratic_weights: -0.0812033
+  quadratic_weights: -0.0880818
+  quadratic_weights: -0.0812033
+  quadratic_weights: 0.122679
+  quadratic_weights: 0.0472701
+  quadratic_weights: -0.0812033
+  quadratic_weights: -0.0880818
+  quadratic_weights: -0.0812033
+  quadratic_weights: 0.122679
+  quadratic_weights: 0.0472701
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0204696
+  quadratic_weights: 0.0108235
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.129092
+  quadratic_weights: 0.0
+  quadratic_weights: -0.06187
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0433032
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0839404
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0019821
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.159315
+  quadratic_weights: -0.133845
+  quadratic_weights: -0.182398
+  quadratic_weights: 0.0304753
+  quadratic_weights: 0.103384
+  quadratic_weights: 0.148937
+  quadratic_weights: 0.0287933
+  quadratic_weights: -0.0446413
+  quadratic_weights: -0.0452867
+  quadratic_weights: 0.0927119
+  quadratic_weights: 0.40429
+  quadratic_weights: 0.0510212
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00969607
+  quadratic_weights: 0.163948
+  quadratic_weights: -0.0389174
+  quadratic_weights: 0.0653511
+  quadratic_weights: -0.0389174
+  quadratic_weights: -0.0122625
+  quadratic_weights: 0.00797694
+  quadratic_weights: -0.0389174
+  quadratic_weights: 0.0653511
+  quadratic_weights: -0.0389174
+  quadratic_weights: -0.0122625
+  quadratic_weights: 0.00797694
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.184117
+  quadratic_weights: -0.0851902
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0799553
+  quadratic_weights: 0.0
+  quadratic_weights: 0.185026
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0499561
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0487871
+  quadratic_weights: 0.0
+  quadratic_weights: -0.366661
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0669073
+  quadratic_weights: 0.0557422
+  quadratic_weights: 0.159008
+  quadratic_weights: 0.0379071
+  quadratic_weights: 0.0858375
+  quadratic_weights: -0.0482691
+  quadratic_weights: -0.123979
+  quadratic_weights: 0.0266061
+  quadratic_weights: -0.0229979
+  quadratic_weights: -0.0196623
+  quadratic_weights: 0.13254
+  quadratic_weights: -0.145378
+  quadratic_weights: 0.0914286
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.111786
+  quadratic_weights: -0.00998737
+  quadratic_weights: 0.0551122
+  quadratic_weights: -0.00756009
+  quadratic_weights: 0.0551122
+  quadratic_weights: 0.0306776
+  quadratic_weights: -0.00759559
+  quadratic_weights: 0.0551122
+  quadratic_weights: -0.00756009
+  quadratic_weights: 0.0551122
+  quadratic_weights: 0.0306776
+  quadratic_weights: -0.00759559
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0578089
+  quadratic_weights: 0.061171
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.117374
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0806277
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0446411
+  quadratic_weights: 0.0
+  quadratic_weights: 0.268717
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0810072
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0790446
+  quadratic_weights: -0.212225
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.124282
+  quadratic_weights: 0.100505
+  quadratic_weights: 0.0714315
+  quadratic_weights: 0.0850655
+  quadratic_weights: -0.0243555
+  quadratic_weights: -0.0382935
+  quadratic_weights: 0.0562601
+  quadratic_weights: 0.0967343
+  quadratic_weights: 0.0172543
+  quadratic_weights: -0.0507286
+  quadratic_weights: 0.0872476
+  quadratic_weights: 0.0537818
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0656445
+  quadratic_weights: 0.104366
+  quadratic_weights: 0.0446766
+  quadratic_weights: -0.0404794
+  quadratic_weights: 0.0446766
+  quadratic_weights: 0.05624
+  quadratic_weights: -0.160158
+  quadratic_weights: 0.0446766
+  quadratic_weights: -0.0404794
+  quadratic_weights: 0.0446766
+  quadratic_weights: 0.05624
+  quadratic_weights: -0.160158
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0547616
+  quadratic_weights: 0.0219867
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0226578
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00858558
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0123905
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0133945
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0690193
+  quadratic_weights: 0.0
+  quadratic_weights: 0.196256
+  quadratic_weights: -0.0912911
+  quadratic_weights: 0.0
+  quadratic_weights: -0.342971
+  quadratic_weights: 0.0663292
+  quadratic_weights: 0.22801
+  quadratic_weights: 0.0812756
+  quadratic_weights: 0.203919
+  quadratic_weights: 0.00788185
+  quadratic_weights: -0.172024
+  quadratic_weights: 0.0737733
+  quadratic_weights: 0.0735636
+  quadratic_weights: -0.142512
+  quadratic_weights: -0.0801926
+  quadratic_weights: 0.243119
+  quadratic_weights: -0.0460608
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0471804
+  quadratic_weights: 0.0401246
+  quadratic_weights: -0.0225342
+  quadratic_weights: -0.101744
+  quadratic_weights: -0.0225342
+  quadratic_weights: -0.0200706
+  quadratic_weights: 0.00627525
+  quadratic_weights: -0.0225342
+  quadratic_weights: -0.101744
+  quadratic_weights: -0.0225342
+  quadratic_weights: -0.0200706
+  quadratic_weights: 0.00627525
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.02511
+  quadratic_weights: -0.111978
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0599171
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0185637
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0612758
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00360176
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0844831
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0451668
+  quadratic_weights: -0.237488
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0199786
+  quadratic_weights: -0.139502
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.123574
+  quadratic_weights: 0.0725404
+  quadratic_weights: 0.0194002
+  quadratic_weights: 0.091372
+  quadratic_weights: 0.0850519
+  quadratic_weights: 0.16409
+  quadratic_weights: 0.0904494
+  quadratic_weights: 0.0715116
+  quadratic_weights: -0.0521708
+  quadratic_weights: -0.0176411
+  quadratic_weights: 0.0539065
+  quadratic_weights: 0.172099
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0259568
+  quadratic_weights: -0.0424523
+  quadratic_weights: -0.0419059
+  quadratic_weights: 0.0254801
+  quadratic_weights: -0.0419059
+  quadratic_weights: -0.101241
+  quadratic_weights: 0.145018
+  quadratic_weights: -0.0419059
+  quadratic_weights: 0.0254801
+  quadratic_weights: -0.0419059
+  quadratic_weights: -0.101241
+  quadratic_weights: 0.145018
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0560182
+  quadratic_weights: 0.0484766
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0350043
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0140481
+  quadratic_weights: 0.0
+  quadratic_weights: -0.117798
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0185643
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0503362
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0573985
+  quadratic_weights: 0.0328711
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0114612
+  quadratic_weights: 0.065288
+  quadratic_weights: 0.0
+  quadratic_weights: -0.156673
+  quadratic_weights: -0.0143608
+  quadratic_weights: 0.177686
+  quadratic_weights: 0.0481342
+  quadratic_weights: 0.233361
+  quadratic_weights: -0.00276807
+  quadratic_weights: -0.0962886
+  quadratic_weights: -0.0127344
+  quadratic_weights: 0.162125
+  quadratic_weights: -0.0224507
+  quadratic_weights: 0.151173
+  quadratic_weights: -0.105361
+  quadratic_weights: 0.0731337
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.057875
+  quadratic_weights: 0.16038
+  quadratic_weights: 0.0808627
+  quadratic_weights: -0.000471889
+  quadratic_weights: 0.0808627
+  quadratic_weights: -0.0986467
+  quadratic_weights: 0.10062
+  quadratic_weights: 0.0808627
+  quadratic_weights: -0.000471889
+  quadratic_weights: 0.0808627
+  quadratic_weights: -0.0986467
+  quadratic_weights: 0.10062
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00460202
+  quadratic_weights: 0.0347387
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.13555
+  quadratic_weights: 0.0
+  quadratic_weights: -0.000595407
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0627211
+  quadratic_weights: 0.0
+  quadratic_weights: 0.19862
+  quadratic_weights: 0.0
+  quadratic_weights: -0.124942
+  quadratic_weights: 0.0
+  quadratic_weights: 0.267047
+  quadratic_weights: 0.140186
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0997772
+  quadratic_weights: 0.0165113
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0282174
+  quadratic_weights: -0.428675
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0364189
+  quadratic_weights: -0.0289732
+  quadratic_weights: -0.0805208
+  quadratic_weights: -0.196074
+  quadratic_weights: -0.0680079
+  quadratic_weights: 0.106948
+  quadratic_weights: -0.0770704
+  quadratic_weights: 0.0742054
+  quadratic_weights: -0.21364
+  quadratic_weights: -0.139565
+  quadratic_weights: -0.186822
+  quadratic_weights: 0.115384
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.176
+  quadratic_weights: 0.0157287
+  quadratic_weights: -0.0791226
+  quadratic_weights: -0.0316197
+  quadratic_weights: -0.0791226
+  quadratic_weights: 0.0233685
+  quadratic_weights: 0.00563057
+  quadratic_weights: -0.0791226
+  quadratic_weights: -0.0316197
+  quadratic_weights: -0.0791226
+  quadratic_weights: 0.0233685
+  quadratic_weights: 0.00563057
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0236073
+  quadratic_weights: -0.0625964
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00975664
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0201337
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0525253
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0106942
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00229616
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00484209
+  quadratic_weights: 0.128581
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0215258
+  quadratic_weights: -0.0173189
+  quadratic_weights: 0.0
+  quadratic_weights: -0.000132474
+  quadratic_weights: -0.0344345
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00921425
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0370082
+  quadratic_weights: 0.0679956
+  quadratic_weights: -0.0369019
+  quadratic_weights: 0.0954834
+  quadratic_weights: -0.00557489
+  quadratic_weights: 0.0457664
+  quadratic_weights: -0.0391777
+  quadratic_weights: -0.100152
+  quadratic_weights: 0.10912
+  quadratic_weights: -0.149087
+  quadratic_weights: 0.130608
+  quadratic_weights: -0.126962
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0725598
+  quadratic_weights: 0.031736
+  quadratic_weights: 0.0685646
+  quadratic_weights: 0.0428969
+  quadratic_weights: 0.0685646
+  quadratic_weights: -0.087511
+  quadratic_weights: -0.0607153
+  quadratic_weights: 0.0685646
+  quadratic_weights: 0.0428969
+  quadratic_weights: 0.0685646
+  quadratic_weights: -0.087511
+  quadratic_weights: -0.0607153
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0251281
+  quadratic_weights: 0.0812148
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0524964
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0115227
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0584954
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0522151
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0742884
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0965381
+  quadratic_weights: 0.0719062
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0106077
+  quadratic_weights: 0.0896954
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0365459
+  quadratic_weights: 0.167948
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0112488
+  quadratic_weights: 0.0
+  quadratic_weights: -0.143685
+  quadratic_weights: 0.0968874
+  quadratic_weights: 0.138162
+  quadratic_weights: -0.0272915
+  quadratic_weights: 0.22043
+  quadratic_weights: 0.0307926
+  quadratic_weights: -0.197281
+  quadratic_weights: 0.108499
+  quadratic_weights: 0.0328184
+  quadratic_weights: -0.084649
+  quadratic_weights: 0.162736
+  quadratic_weights: 0.00259849
+  quadratic_weights: 0.0306798
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0283577
+  quadratic_weights: 0.0113715
+  quadratic_weights: 0.0383458
+  quadratic_weights: -0.0591507
+  quadratic_weights: 0.0383458
+  quadratic_weights: 0.101078
+  quadratic_weights: 0.0425939
+  quadratic_weights: 0.0383458
+  quadratic_weights: -0.0591507
+  quadratic_weights: 0.0383458
+  quadratic_weights: 0.101078
+  quadratic_weights: 0.0425939
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0150981
+  quadratic_weights: -0.0434791
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.1263
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0112178
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0288424
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0454691
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0566368
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0157247
+  quadratic_weights: 0.0276078
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00645565
+  quadratic_weights: -0.00530004
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0311671
+  quadratic_weights: 0.0754653
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0249756
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00524686
+  quadratic_weights: -0.309555
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.107069
+  quadratic_weights: 0.0216472
+  quadratic_weights: 0.110855
+  quadratic_weights: 0.00402788
+  quadratic_weights: -0.00561693
+  quadratic_weights: -0.134221
+  quadratic_weights: 0.101068
+  quadratic_weights: 0.168711
+  quadratic_weights: -0.18807
+  quadratic_weights: 0.0711038
+  quadratic_weights: -0.0684267
+  quadratic_weights: 0.116362
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0521672
+  quadratic_weights: 0.0402139
+  quadratic_weights: 0.0510962
+  quadratic_weights: 0.0568843
+  quadratic_weights: 0.0510962
+  quadratic_weights: -0.0631634
+  quadratic_weights: 0.0944417
+  quadratic_weights: 0.0510962
+  quadratic_weights: 0.0568843
+  quadratic_weights: 0.0510962
+  quadratic_weights: -0.0631634
+  quadratic_weights: 0.0944417
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0590494
+  quadratic_weights: 0.133059
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00634748
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0158117
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0455145
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0179599
+  quadratic_weights: 0.0
+  quadratic_weights: -0.185674
+  quadratic_weights: 0.0
+  quadratic_weights: 0.184211
+  quadratic_weights: 0.026041
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0127322
+  quadratic_weights: -0.0138134
+  quadratic_weights: 0.0
+  quadratic_weights: 0.016929
+  quadratic_weights: -0.0464491
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0230745
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00903528
+  quadratic_weights: 0.114811
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.358537
+  quadratic_weights: -0.0742735
+  quadratic_weights: -0.13462
+  quadratic_weights: -0.0828483
+  quadratic_weights: 0.18054
+  quadratic_weights: -0.0267832
+  quadratic_weights: 0.0485719
+  quadratic_weights: -0.0789134
+  quadratic_weights: 0.0368296
+  quadratic_weights: -0.156027
+  quadratic_weights: 0.189913
+  quadratic_weights: 0.177883
+  quadratic_weights: 0.184361
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0771433
+  quadratic_weights: 0.242465
+  quadratic_weights: 0.0124229
+  quadratic_weights: -0.0619788
+  quadratic_weights: 0.0124229
+  quadratic_weights: 0.10261
+  quadratic_weights: -0.0275465
+  quadratic_weights: 0.0124229
+  quadratic_weights: -0.0619788
+  quadratic_weights: 0.0124229
+  quadratic_weights: 0.10261
+  quadratic_weights: -0.0275465
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0090461
+  quadratic_weights: -0.0118733
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00811137
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0105839
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0258213
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0141565
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0720346
+  quadratic_weights: 0.0
+  quadratic_weights: 0.289624
+  quadratic_weights: 0.153
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00864462
+  quadratic_weights: -0.0160071
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0126614
+  quadratic_weights: 0.0438245
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0428259
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00972385
+  quadratic_weights: 0.0537833
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0129524
+  quadratic_weights: -0.254557
+  quadratic_weights: -0.0743753
+  quadratic_weights: 0.0745241
+  quadratic_weights: -0.0190876
+  quadratic_weights: 0.125923
+  quadratic_weights: -0.0748092
+  quadratic_weights: -0.07403
+  quadratic_weights: -0.0564611
+  quadratic_weights: -0.0124542
+  quadratic_weights: -0.0234847
+  quadratic_weights: -0.00143056
+  quadratic_weights: -0.0229938
+  quadratic_weights: 0.0551268
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0272307
+  quadratic_weights: -0.140567
+  quadratic_weights: 0.0391987
+  quadratic_weights: -0.00187742
+  quadratic_weights: 0.0391987
+  quadratic_weights: -0.181962
+  quadratic_weights: 0.039547
+  quadratic_weights: 0.0391987
+  quadratic_weights: -0.00187742
+  quadratic_weights: 0.0391987
+  quadratic_weights: -0.181962
+  quadratic_weights: 0.039547
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0234661
+  quadratic_weights: -0.111874
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0782152
+  quadratic_weights: 0.0
+  quadratic_weights: -0.109626
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0999724
+  quadratic_weights: 0.0
+  quadratic_weights: -0.139952
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0535278
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0235566
+  quadratic_weights: -0.0631543
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0773212
+  quadratic_weights: 0.0517679
+  quadratic_weights: 0.0
+  quadratic_weights: -0.030738
+  quadratic_weights: 0.0371101
+  quadratic_weights: 0.0
+  quadratic_weights: -0.024231
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0814342
+  quadratic_weights: 0.0450226
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0626759
+  quadratic_weights: -0.0782328
+  quadratic_weights: 0.0019821
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0685872
+  quadratic_weights: 0.0956605
+  quadratic_weights: 0.132633
+  quadratic_weights: 0.219609
+  quadratic_weights: -0.00644103
+  quadratic_weights: -0.0265192
+  quadratic_weights: 0.0605982
+  quadratic_weights: 0.0245619
+  quadratic_weights: -0.0158994
+  quadratic_weights: 0.301817
+  quadratic_weights: -0.0851256
+  quadratic_weights: 0.00481356
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.229356
+  quadratic_weights: 0.209223
+  quadratic_weights: 0.0132209
+  quadratic_weights: -0.0916655
+  quadratic_weights: 0.0132209
+  quadratic_weights: -0.0775494
+  quadratic_weights: -0.0280032
+  quadratic_weights: 0.0132209
+  quadratic_weights: -0.0916655
+  quadratic_weights: 0.0132209
+  quadratic_weights: -0.0775494
+  quadratic_weights: -0.0280032
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00628284
+  quadratic_weights: -0.100278
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.153831
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0735963
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0439729
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0140258
+  quadratic_weights: 0.0
+  quadratic_weights: -0.113089
+  quadratic_weights: 0.0
+  quadratic_weights: -0.071645
+  quadratic_weights: -0.164823
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0295016
+  quadratic_weights: -0.0973691
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0519594
+  quadratic_weights: -0.0665458
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0218132
+  quadratic_weights: 0.0
+  quadratic_weights: -0.078969
+  quadratic_weights: 0.0624536
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0606614
+  quadratic_weights: 0.038696
+  quadratic_weights: -0.0441887
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0019821
+  quadratic_weights: -0.0711017
+  quadratic_weights: -0.104233
+  quadratic_weights: -0.0356525
+  quadratic_weights: -0.0738557
+  quadratic_weights: 0.0790078
+  quadratic_weights: -0.160847
+  quadratic_weights: 0.122332
+  quadratic_weights: 0.00465941
+  quadratic_weights: -0.06338
+  quadratic_weights: 0.0233552
+  quadratic_weights: -0.0532109
+  quadratic_weights: 0.0259338
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0599616
+  quadratic_weights: 0.0144729
+  quadratic_weights: 0.0131132
+  quadratic_weights: -0.0153909
+  quadratic_weights: 0.0131132
+  quadratic_weights: -0.0615561
+  quadratic_weights: 0.120464
+  quadratic_weights: 0.0131132
+  quadratic_weights: -0.0153909
+  quadratic_weights: 0.0131132
+  quadratic_weights: -0.0615561
+  quadratic_weights: 0.120464
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0110053
+  quadratic_weights: 0.0128721
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.000624738
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00715941
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0275347
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0572083
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0297528
+  quadratic_weights: 0.0
+  quadratic_weights: -0.250548
+  quadratic_weights: -0.0250446
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00824582
+  quadratic_weights: 0.077199
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0164218
+  quadratic_weights: 0.0354281
+  quadratic_weights: 0.0
+  quadratic_weights: 0.00596514
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0160826
+  quadratic_weights: -0.0193912
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00577623
+  quadratic_weights: -0.0246154
+  quadratic_weights: 0.00768696
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0375195
+  quadratic_weights: 0.0117187
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.134178
+  quadratic_weights: -0.241403
+  quadratic_weights: -0.192804
+  quadratic_weights: -0.0616797
+  quadratic_weights: -0.226333
+  quadratic_weights: -0.367778
+  quadratic_weights: -0.0713458
+  quadratic_weights: -0.392447
+  quadratic_weights: 0.0575094
+  quadratic_weights: 0.0274009
+  quadratic_weights: -0.343217
+  quadratic_weights: -0.115468
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.348714
+  quadratic_weights: -0.274353
+  quadratic_weights: -0.0106777
+  quadratic_weights: 0.0163444
+  quadratic_weights: -0.0106777
+  quadratic_weights: 0.00368161
+  quadratic_weights: -0.0279954
+  quadratic_weights: -0.0106777
+  quadratic_weights: 0.0163444
+  quadratic_weights: -0.0106777
+  quadratic_weights: 0.00368161
+  quadratic_weights: -0.0279954
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.143499
+  quadratic_weights: -0.0484054
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0422203
+  quadratic_weights: 0.0
+  quadratic_weights: -0.121567
+  quadratic_weights: 0.0
+  quadratic_weights: -0.172954
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0913071
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0467759
+  quadratic_weights: 0.0
+  quadratic_weights: -0.134604
+  quadratic_weights: -0.0173323
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0233851
+  quadratic_weights: -0.0314409
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0486799
+  quadratic_weights: -0.217548
+  quadratic_weights: 0.0
+  quadratic_weights: 0.000319632
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0810507
+  quadratic_weights: -0.13264
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00628675
+  quadratic_weights: -0.0750001
+  quadratic_weights: -0.107316
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0705744
+  quadratic_weights: -0.0150693
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0019821
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.118702
+  quadratic_weights: 0.10329
+  quadratic_weights: 0.0693942
+  quadratic_weights: 0.0735143
+  quadratic_weights: 0.0296458
+  quadratic_weights: -0.0473509
+  quadratic_weights: 0.0306096
+  quadratic_weights: 0.0375293
+  quadratic_weights: -0.0446412
+  quadratic_weights: 0.0462533
+  quadratic_weights: 0.121806
+  quadratic_weights: -0.00746502
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.131502
+  quadratic_weights: 0.0502454
+  quadratic_weights: -0.0022351
+  quadratic_weights: -0.0127151
+  quadratic_weights: -0.0022351
+  quadratic_weights: -0.00513126
+  quadratic_weights: 0.00533033
+  quadratic_weights: -0.0022351
+  quadratic_weights: -0.0127151
+  quadratic_weights: -0.0022351
+  quadratic_weights: -0.00513126
+  quadratic_weights: 0.00533033
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0252643
+  quadratic_weights: -0.0315572
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0821527
+  quadratic_weights: 0.0
+  quadratic_weights: -0.104902
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0661074
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0261676
+  quadratic_weights: 0.0
+  quadratic_weights: 0.024302
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0852927
+  quadratic_weights: -0.0317939
+  quadratic_weights: 0.0
+  quadratic_weights: -0.163169
+  quadratic_weights: 0.097445
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0724021
+  quadratic_weights: 0.0364994
+  quadratic_weights: 0.0
+  quadratic_weights: -0.257333
+  quadratic_weights: 0.0
+  quadratic_weights: 0.289058
+  quadratic_weights: -0.0736248
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.126867
+  quadratic_weights: -0.0337946
+  quadratic_weights: 0.217401
+  quadratic_weights: 0.0
+  quadratic_weights: -0.121377
+  quadratic_weights: -0.204486
+  quadratic_weights: 0.0
+  quadratic_weights: -0.187623
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.128781
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0506072
+  quadratic_weights: 0.059779
+  quadratic_weights: -0.0429908
+  quadratic_weights: 0.0282374
+  quadratic_weights: 0.00618815
+  quadratic_weights: 0.0606669
+  quadratic_weights: -0.0986691
+  quadratic_weights: -0.0267076
+  quadratic_weights: 0.103715
+  quadratic_weights: 0.0725934
+  quadratic_weights: 0.198925
+  quadratic_weights: 0.0284206
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0105412
+  quadratic_weights: 0.250979
+  quadratic_weights: 0.000533259
+  quadratic_weights: -0.0506348
+  quadratic_weights: 0.000533259
+  quadratic_weights: 0.0343014
+  quadratic_weights: -0.0736502
+  quadratic_weights: 0.000533259
+  quadratic_weights: -0.0506348
+  quadratic_weights: 0.000533259
+  quadratic_weights: 0.0343014
+  quadratic_weights: -0.0736502
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0123355
+  quadratic_weights: 0.080578
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.108958
+  quadratic_weights: 0.0
+  quadratic_weights: 0.104892
+  quadratic_weights: 0.0
+  quadratic_weights: 0.017202
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0027916
+  quadratic_weights: 0.0
+  quadratic_weights: -0.00303557
+  quadratic_weights: 0.0
+  quadratic_weights: -0.183134
+  quadratic_weights: -0.0629495
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0314169
+  quadratic_weights: 0.0807171
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0419757
+  quadratic_weights: 0.177265
+  quadratic_weights: 0.0
+  quadratic_weights: 0.011184
+  quadratic_weights: 0.0
+  quadratic_weights: 0.132056
+  quadratic_weights: 0.0949483
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0112753
+  quadratic_weights: 0.0907425
+  quadratic_weights: 0.104731
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0395801
+  quadratic_weights: -0.00612701
+  quadratic_weights: 0.0
+  quadratic_weights: -0.0873746
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0253402
+  quadratic_weights: 0.0
+  quadratic_weights: 0.0019821
+>
